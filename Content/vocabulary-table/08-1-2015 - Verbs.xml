@@ -1,0 +1,2618 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<vocabs xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<vocab>
+		<origin>Abandon something</origin>
+		<speech>V.</speech>
+		<meaning>離棄；放棄；拋棄</meaning>
+	</vocab>
+	<vocab>
+		<origin>Abandon yourself to something</origin>
+		<speech>V.</speech>
+		<meaning>沉湎於一種感覺或生活方式</meaning>
+	</vocab>
+	<vocab>
+		<origin>Abolish something</origin>
+		<speech>V.</speech>
+		<meaning>廢除</meaning>
+	</vocab>
+	<vocab>
+		<origin>Absorb something</origin>
+		<speech>V.</speech>
+		<meaning>（尤指逐漸）吸收</meaning>
+	</vocab>
+	<vocab>
+		<origin>Abuse something</origin>
+		<speech>V.</speech>
+		<meaning>（尤指為個人私利）傷害，濫用</meaning>
+	</vocab>
+	<vocab>
+		<origin>Accommodate somebody or something</origin>
+		<speech>V.</speech>
+		<meaning>為…提供方便；使適應</meaning>
+	</vocab>
+	<vocab>
+		<origin>Accompany somebody to do something</origin>
+		<speech>V.</speech>
+		<meaning>陪同，陪伴；伴隨</meaning>
+	</vocab>
+	<vocab>
+		<origin>Accomplish</origin>
+		<speech>V.</speech>
+		<meaning>實現；達到</meaning>
+	</vocab>
+	<vocab>
+		<origin>Account for something</origin>
+		<speech>V.</speech>
+		<meaning>（在數量上）佔</meaning>
+	</vocab>
+	<vocab>
+		<origin>Account to somebody for something</origin>
+		<speech>V.</speech>
+		<meaning>（對某人）就…作出解釋</meaning>
+	</vocab>
+	<vocab>
+		<origin>Accumulate something or none</origin>
+		<speech>V.</speech>
+		<meaning>長時間積累；逐漸增加</meaning>
+	</vocab>
+	<vocab>
+		<origin>Accuse of something</origin>
+		<speech>V.</speech>
+		<meaning>譴責</meaning>
+	</vocab>
+	<vocab>
+		<origin>Stand accused of something</origin>
+		<speech>V.</speech>
+		<meaning>被指控…</meaning>
+	</vocab>
+	<vocab>
+		<origin>Achieve something</origin>
+		<speech>V.</speech>
+		<meaning>（尤指經過努力）完成，達到，實現</meaning>
+	</vocab>
+	<vocab>
+		<origin>Acknowledge something</origin>
+		<speech>V.</speech>
+		<meaning>承認，認可…屬實或存在</meaning>
+	</vocab>
+	<vocab>
+		<origin>Acquire something</origin>
+		<speech>V.</speech>
+		<meaning>取得，獲得</meaning>
+	</vocab>
+	<vocab>
+		<origin>Adapt something to something</origin>
+		<speech>V.</speech>
+		<meaning>使適應不同情況；改造</meaning>
+	</vocab>
+	<vocab>
+		<origin>Adjust something</origin>
+		<speech>V.</speech>
+		<meaning>（尤指為使某物更合適）；調整整理（衣著）</meaning>
+	</vocab>
+	<vocab>
+		<origin>Administer something</origin>
+		<speech>V.</speech>
+		<meaning>管理；治理</meaning>
+	</vocab>
+	<vocab>
+		<origin>Administer something to somebody</origin>
+		<speech>V.</speech>
+		<meaning>給予；施用；施行</meaning>
+	</vocab>
+	<vocab>
+		<origin>Admire somebody for something</origin>
+		<speech>V.</speech>
+		<meaning>欣賞</meaning>
+	</vocab>
+	<vocab>
+		<origin>Admit something</origin>
+		<speech>V.</speech>
+		<meaning>（尤指不情願地）承認</meaning>
+	</vocab>
+	<vocab>
+		<origin>Adopt somebody</origin>
+		<speech>V.</speech>
+		<meaning>收養</meaning>
+	</vocab>
+	<vocab>
+		<origin>Adopt somebody as something</origin>
+		<speech>V.</speech>
+		<meaning>選定</meaning>
+	</vocab>
+	<vocab>
+		<origin>Adopt to do something</origin>
+		<speech>V.</speech>
+		<meaning>接受；採用</meaning>
+	</vocab>
+	<vocab>
+		<origin>Advise something</origin>
+		<speech>V.</speech>
+		<meaning>勸告；給…出主意</meaning>
+	</vocab>
+	<vocab>
+		<origin>Affect somebody or something</origin>
+		<speech>V.</speech>
+		<meaning>影響；感染；打動</meaning>
+	</vocab>
+	<vocab>
+		<origin>Afford something or to do something</origin>
+		<speech>V.</speech>
+		<meaning>買得起；（有時間）做</meaning>
+	</vocab>
+	<vocab>
+		<origin>Alarm somebody</origin>
+		<speech>V.</speech>
+		<meaning>令…擔心或害怕</meaning>
+	</vocab>
+	<vocab>
+		<origin>Alter something</origin>
+		<speech>V.</speech>
+		<meaning>（通常指輕微地）改動</meaning>
+	</vocab>
+	<vocab>
+		<origin>Amaze somebody</origin>
+		<speech>V.</speech>
+		<meaning>使大為驚奇</meaning>
+	</vocab>
+	<vocab>
+		<origin>Analyze something for something</origin>
+		<speech>V.</speech>
+		<meaning>分析</meaning>
+	</vocab>
+	<vocab>
+		<origin>Annoy somebody</origin>
+		<speech>V.</speech>
+		<meaning>煩擾，使煩惱</meaning>
+	</vocab>
+	<vocab>
+		<origin>Anticipate something</origin>
+		<speech>V.</speech>
+		<meaning>期望，盼望；預見（並做準備）</meaning>
+	</vocab>
+	<vocab>
+		<origin>Appeal to somebody to do</origin>
+		<speech>V.</speech>
+		<meaning>（尤指向公眾）呼籲，籲請，求助</meaning>
+	</vocab>
+	<vocab>
+		<origin>Apologize to somebody for something</origin>
+		<speech>V.</speech>
+		<meaning>道歉；謝罪</meaning>
+	</vocab>
+	<vocab>
+		<origin>Apply to something for something</origin>
+		<speech>V.</speech>
+		<meaning>申請</meaning>
+	</vocab>
+	<vocab>
+		<origin>Apply yourself</origin>
+		<speech>V.</speech>
+		<meaning>勤奮，努力</meaning>
+	</vocab>
+	<vocab>
+		<origin>Appoint somebody as a position to do something</origin>
+		<speech>V.</speech>
+		<meaning>任命；委任</meaning>
+	</vocab>
+	<vocab>
+		<origin>Appreciate something</origin>
+		<speech>V.</speech>
+		<meaning>欣賞；賞識</meaning>
+	</vocab>
+	<vocab>
+		<origin>Approach something</origin>
+		<speech>V.</speech>
+		<meaning>接近；臨近</meaning>
+	</vocab>
+	<vocab>
+		<origin>Approve of somebody or something</origin>
+		<speech>V.</speech>
+		<meaning>贊成；同意</meaning>
+	</vocab>
+	<vocab>
+		<origin>Argue with something</origin>
+		<speech>V.</speech>
+		<meaning>爭論；爭吵</meaning>
+	</vocab>
+	<vocab>
+		<origin>Argue for or in favour of or against something</origin>
+		<speech>V.</speech>
+		<meaning>提出支持／反對；理由</meaning>
+	</vocab>
+	<vocab>
+		<origin>Arouse something</origin>
+		<speech>V.</speech>
+		<meaning>引起；喚起</meaning>
+	</vocab>
+	<vocab>
+		<origin>Arrest for something</origin>
+		<speech>V.</speech>
+		<meaning>逮捕；拘捕</meaning>
+	</vocab>
+	<vocab>
+		<origin>Ascend to somewhere</origin>
+		<speech>V.</speech>
+		<meaning>上升；攀登</meaning>
+	</vocab>
+	<vocab>
+		<origin>Ascend to a position</origin>
+		<speech>V.</speech>
+		<meaning>登上高的職位；升級，晉升</meaning>
+	</vocab>
+	<vocab>
+		<origin>Assist somebody with something</origin>
+		<speech>V.</speech>
+		<meaning>幫助；協助；援助</meaning>
+	</vocab>
+	<vocab>
+		<origin>Associate with somebody</origin>
+		<speech>V.</speech>
+		<meaning>與（尤指他人不贊同的人）交往</meaning>
+	</vocab>
+	<vocab>
+		<origin>Associate something with something</origin>
+		<speech>V.</speech>
+		<meaning>…和…有關聯</meaning>
+	</vocab>
+	<vocab>
+		<origin>Assume</origin>
+		<speech>V.</speech>
+		<meaning>假定，假設</meaning>
+	</vocab>
+	<vocab>
+		<origin>Assure of something</origin>
+		<speech>V.</speech>
+		<meaning>（尤指為消除其憂慮）向…保證</meaning>
+	</vocab>
+	<vocab>
+		<origin>Attach something to something</origin>
+		<speech>V.</speech>
+		<meaning>使附着</meaning>
+	</vocab>
+	<vocab>
+		<origin>Attain something</origin>
+		<speech>V.</speech>
+		<meaning>實現；獲得；贏得</meaning>
+	</vocab>
+	<vocab>
+		<origin>Attempt to do something</origin>
+		<speech>V.</speech>
+		<meaning>努力，嘗試（尤指做難事）</meaning>
+	</vocab>
+	<vocab>
+		<origin>Attract something</origin>
+		<speech>V.</speech>
+		<meaning>（尤因值得讚賞的品質而）吸引，引起</meaning>
+	</vocab>
+	<vocab>
+		<origin>Attribute something to somebody</origin>
+		<speech>V.</speech>
+		<meaning>認為（某人）有（某種特性）</meaning>
+	</vocab>
+	<vocab>
+		<origin>Attribute something to somebody or something</origin>
+		<speech>V.</speech>
+		<meaning>把…歸因於…</meaning>
+	</vocab>
+	<vocab>
+		<origin>Avoid doing something</origin>
+		<speech>V.</speech>
+		<meaning>避開；避免，防止；逃避</meaning>
+	</vocab>
+	<vocab>
+		<origin>Avoid something like the plague</origin>
+		<speech>V.</speech>
+		<meaning>堅決避開</meaning>
+	</vocab>
+	<vocab>
+		<origin>Award somebody something</origin>
+		<speech>V.</speech>
+		<meaning>官方給予金錢／獎</meaning>
+	</vocab>
+	<vocab>
+		<origin>Benefit from something</origin>
+		<speech>V.</speech>
+		<meaning>受益</meaning>
+	</vocab>
+	<vocab>
+		<origin>Something be bestowed upon somebody</origin>
+		<speech>V.</speech>
+		<meaning>賜給榮譽／禮物</meaning>
+	</vocab>
+	<vocab>
+		<origin>Betray something</origin>
+		<speech>V.</speech>
+		<meaning>背叛，出賣；對…不忠誠</meaning>
+	</vocab>
+	<vocab>
+		<origin>Betray feeling or thoughts</origin>
+		<speech>V.</speech>
+		<meaning>暴露（想法）；流露（情感）</meaning>
+	</vocab>
+	<vocab>
+		<origin>Beware of something</origin>
+		<speech>V.</speech>
+		<meaning>當心</meaning>
+	</vocab>
+	<vocab>
+		<origin>Blame for something on somebody</origin>
+		<speech>V.</speech>
+		<meaning>責備；責怪</meaning>
+	</vocab>
+	<vocab>
+		<origin>Bleed</origin>
+		<speech>V.</speech>
+		<meaning>出血，流血</meaning>
+	</vocab>
+	<vocab>
+		<origin>Bless somebody or something</origin>
+		<speech>V.</speech>
+		<meaning>祝福；使神聖</meaning>
+	</vocab>
+	<vocab>
+		<origin>Bloom</origin>
+		<speech>V.</speech>
+		<meaning>繁榮，興盛；開花；綻放</meaning>
+	</vocab>
+	<vocab>
+		<origin>Boast about something</origin>
+		<speech>V.</speech>
+		<meaning>自吹自擂，吹噓，誇耀</meaning>
+	</vocab>
+	<vocab>
+		<origin>Bother to do something</origin>
+		<speech>V.</speech>
+		<meaning>努力，盡力；費心</meaning>
+	</vocab>
+	<vocab>
+		<origin>Breathe</origin>
+		<speech>V.</speech>
+		<meaning>呼吸</meaning>
+	</vocab>
+	<vocab>
+		<origin>Broadcast from somewhere to somewhere</origin>
+		<speech>V.</speech>
+		<meaning>廣播</meaning>
+	</vocab>
+	<vocab>
+		<origin>Bury</origin>
+		<speech>V.</speech>
+		<meaning>埋葬，安葬</meaning>
+	</vocab>
+	<vocab>
+		<origin>Be captured</origin>
+		<speech>V.</speech>
+		<meaning>（尤指用武力）被俘虜</meaning>
+	</vocab>
+	<vocab>
+		<origin>Capture in something</origin>
+		<speech>V.</speech>
+		<meaning>（用文字或圖像準確地）描繪，刻畫</meaning>
+	</vocab>
+	<vocab>
+		<origin>Celebrate</origin>
+		<speech>V.</speech>
+		<meaning>慶祝</meaning>
+	</vocab>
+	<vocab>
+		<origin>Celebrate something of somebody</origin>
+		<speech>V.</speech>
+		<meaning>讚揚，讚美</meaning>
+	</vocab>
+	<vocab>
+		<origin>Cherish somebody or something</origin>
+		<speech>V.</speech>
+		<meaning>愛護重要的…</meaning>
+	</vocab>
+	<vocab>
+		<origin>Circulate</origin>
+		<speech>V.</speech>
+		<meaning>（使）循環；（使）流通；</meaning>
+	</vocab>
+	<vocab>
+		<origin>Claim that ...</origin>
+		<speech>V.</speech>
+		<meaning>斷言；</meaning>
+	</vocab>
+	<vocab>
+		<origin>Claim something</origin>
+		<speech>V.</speech>
+		<meaning>要求（擁有）；認領；索取</meaning>
+	</vocab>
+	<vocab>
+		<origin>Clarify something</origin>
+		<speech>V.</speech>
+		<meaning>澄清；使更清晰易懂</meaning>
+	</vocab>
+	<vocab>
+		<origin>Classify something into something</origin>
+		<speech>V.</speech>
+		<meaning>將…歸類；把…分級</meaning>
+	</vocab>
+	<vocab>
+		<origin>Cling to somebody</origin>
+		<speech>V.</speech>
+		<meaning>依附；抓緊</meaning>
+	</vocab>
+	<vocab>
+		<origin>Coincide with something</origin>
+		<speech>V.</speech>
+		<meaning>（幾乎）同時發生</meaning>
+	</vocab>
+	<vocab>
+		<origin>Collapse under something</origin>
+		<speech>V.</speech>
+		<meaning>（由於壓力、無力或缺乏支持）倒下</meaning>
+	</vocab>
+	<vocab>
+		<origin>Collapse</origin>
+		<speech>V.</speech>
+		<meaning>（人或企業）崩潰，失敗</meaning>
+	</vocab>
+	<vocab>
+		<origin>Commit a crime</origin>
+		<speech>V.</speech>
+		<meaning>做（違法或錯誤的事）</meaning>
+	</vocab>
+	<vocab>
+		<origin>Commit to something</origin>
+		<speech>V.</speech>
+		<meaning>承諾，保證；投入（時間或金錢）</meaning>
+	</vocab>
+	<vocab>
+		<origin>Commit something to paper</origin>
+		<speech>V.</speech>
+		<meaning>寫下，記下</meaning>
+	</vocab>
+	<vocab>
+		<origin>Commit somebody to prison or hospital</origin>
+		<speech>V.</speech>
+		<meaning>將…送進（監獄或醫院）</meaning>
+	</vocab>
+	<vocab>
+		<origin>Communicate with somebody</origin>
+		<speech>V.</speech>
+		<meaning>交流</meaning>
+	</vocab>
+	<vocab>
+		<origin>Communicate something to somebody</origin>
+		<speech>V.</speech>
+		<meaning>將（消息）傳達給</meaning>
+	</vocab>
+	<vocab>
+		<origin>Communicate a emotion</origin>
+		<speech>V.</speech>
+		<meaning>可以表達情感</meaning>
+	</vocab>
+	<vocab>
+		<origin>Communicate a disease</origin>
+		<speech>V.</speech>
+		<meaning>傳播疾病</meaning>
+	</vocab>
+	<vocab>
+		<origin>Compensate somebody for something</origin>
+		<speech>V.</speech>
+		<meaning>補償（錢）</meaning>
+	</vocab>
+	<vocab>
+		<origin>Compete with or against somebody for something</origin>
+		<speech>V.</speech>
+		<meaning>競爭</meaning>
+	</vocab>
+	<vocab>
+		<origin>Compete in a competition for something</origin>
+		<speech>V.</speech>
+		<meaning>參與競爭</meaning>
+	</vocab>
+	<vocab>
+		<origin>Conceal something</origin>
+		<speech>V.</speech>
+		<meaning>隱藏</meaning>
+	</vocab>
+	<vocab>
+		<origin>Concentrate on something</origin>
+		<speech>V.</speech>
+		<meaning>集中（注意力）</meaning>
+	</vocab>
+	<vocab>
+		<origin>Conclude something</origin>
+		<speech>V.</speech>
+		<meaning>（以…）結束（講話、會議、文章等）</meaning>
+	</vocab>
+	<vocab>
+		<origin>Confess somebody to or that ...</origin>
+		<speech>V.</speech>
+		<meaning>承認（錯誤或罪行）</meaning>
+	</vocab>
+	<vocab>
+		<origin>Confine something to some way</origin>
+		<speech>V.</speech>
+		<meaning>局限</meaning>
+	</vocab>
+	<vocab>
+		<origin>Be confined</origin>
+		<speech>V.</speech>
+		<meaning>（常指強制）關押，監禁</meaning>
+	</vocab>
+	<vocab>
+		<origin>Confirm something</origin>
+		<speech>V.</speech>
+		<meaning>確認；證實</meaning>
+	</vocab>
+	<vocab>
+		<origin>Confront something</origin>
+		<speech>V.</speech>
+		<meaning>面對；直面，正視</meaning>
+	</vocab>
+	<vocab>
+		<origin>Confront somebody with something</origin>
+		<speech>V.</speech>
+		<meaning>跟（某人）對質</meaning>
+	</vocab>
+	<vocab>
+		<origin>Confuse somebody or something</origin>
+		<speech>V.</speech>
+		<meaning>使困惑；使混亂</meaning>
+	</vocab>
+	<vocab>
+		<origin>Confuse something with something</origin>
+		<speech>V.</speech>
+		<meaning>將…混淆成…</meaning>
+	</vocab>
+	<vocab>
+		<origin>Congratulate somebody on something</origin>
+		<speech>V.</speech>
+		<meaning>慶賀</meaning>
+	</vocab>
+	<vocab>
+		<origin>Consent somebody to do something</origin>
+		<speech>V.</speech>
+		<meaning>允許</meaning>
+	</vocab>
+	<vocab>
+		<origin>Consider something</origin>
+		<speech>V.</speech>
+		<meaning>（用時間）認真考慮</meaning>
+	</vocab>
+	<vocab>
+		<origin>Be highly or well considered</origin>
+		<speech>V.</speech>
+		<meaning>受人尊敬；受到高度評價</meaning>
+	</vocab>
+	<vocab>
+		<origin>Consist of something</origin>
+		<speech>V.</speech>
+		<meaning>包含</meaning>
+	</vocab>
+	<vocab>
+		<origin>Consist in something</origin>
+		<speech>V.</speech>
+		<meaning>在於</meaning>
+	</vocab>
+	<vocab>
+		<origin>Console somebody with something</origin>
+		<speech>V.</speech>
+		<meaning>安慰</meaning>
+	</vocab>
+	<vocab>
+		<origin>Consume something</origin>
+		<speech>V.</speech>
+		<meaning>（尤指大量地）消耗，消費，吃，喝</meaning>
+	</vocab>
+	<vocab>
+		<origin>fire consume something</origin>
+		<speech>V.</speech>
+		<meaning>吞噬，燒毀，毀滅</meaning>
+	</vocab>
+	<vocab>
+		<origin>Contain something</origin>
+		<speech>V.</speech>
+		<meaning>包含；容納</meaning>
+	</vocab>
+	<vocab>
+		<origin>Contain a strong emotion</origin>
+		<speech>V. Offen in negatives</speech>
+		<meaning>克制（情緒）</meaning>
+	</vocab>
+	<vocab>
+		<origin>Contain something harmful</origin>
+		<speech>V.</speech>
+		<meaning>制止（有害物蔓延）</meaning>
+	</vocab>
+	<vocab>
+		<origin>Contribute something  to somewhere</origin>
+		<speech>V.</speech>
+		<meaning>（尤指錢）貢獻；（給報紙、雜誌或書）投稿</meaning>
+	</vocab>
+	<vocab>
+		<origin>Contribute to something</origin>
+		<speech>V.</speech>
+		<meaning>促成；導致</meaning>
+	</vocab>
+	<vocab>
+		<origin>Convey something to somebody</origin>
+		<speech>V.</speech>
+		<meaning>傳達（思想、感情或想法）</meaning>
+	</vocab>
+	<vocab>
+		<origin>Convince somebody of something</origin>
+		<speech>V.</speech>
+		<meaning>說服；使相信</meaning>
+	</vocab>
+	<vocab>
+		<origin>Co-operate with somebody in doing something</origin>
+		<speech>V.</speech>
+		<meaning>合作</meaning>
+	</vocab>
+	<vocab>
+		<origin>Cope with</origin>
+		<speech>V.</speech>
+		<meaning>（成功地）應付</meaning>
+	</vocab>
+	<vocab>
+		<origin>Criticize</origin>
+		<speech>V.</speech>
+		<meaning>評論（書、影片等）</meaning>
+	</vocab>
+	<vocab>
+		<origin>Be criticized for doing something</origin>
+		<speech>V.</speech>
+		<meaning>批評</meaning>
+	</vocab>
+	<vocab>
+		<origin>Cultivate a crop</origin>
+		<speech>V.</speech>
+		<meaning>準備和種植農作物；培育農作物</meaning>
+	</vocab>
+	<vocab>
+		<origin>Cultivate something or relationship</origin>
+		<speech>V.</speech>
+		<meaning>培養，改進；特別建立（關係）</meaning>
+	</vocab>
+	<vocab>
+		<origin>Damage something</origin>
+		<speech>V.</speech>
+		<meaning>損害，損壞，破壞</meaning>
+	</vocab>
+	<vocab>
+		<origin>Dare to do something</origin>
+		<speech>V.</speech>
+		<meaning>敢於；膽敢（無權利下）</meaning>
+	</vocab>
+	<vocab>
+		<origin>Daresay something</origin>
+		<speech>V.</speech>
+		<meaning>（通常自己）敢說，敢肯定</meaning>
+	</vocab>
+	<vocab>
+		<origin>Dare somebody to do something</origin>
+		<speech>V.</speech>
+		<meaning>向…挑戰；（用激將法）激</meaning>
+	</vocab>
+	<vocab>
+		<origin>Debate something</origin>
+		<speech>V.</speech>
+		<meaning>（正式地）討論；考慮</meaning>
+	</vocab>
+	<vocab>
+		<origin>Deceive somebody</origin>
+		<speech>V.</speech>
+		<meaning>欺騙</meaning>
+	</vocab>
+	<vocab>
+		<origin>Devceive yourself</origin>
+		<speech>V.</speech>
+		<meaning>自欺欺人，欺騙自己</meaning>
+	</vocab>
+	<vocab>
+		<origin>Declare something yourself to be noun or adjective</origin>
+		<speech>V.</speech>
+		<meaning>宣佈；聲明；公佈</meaning>
+	</vocab>
+	<vocab>
+		<origin>Decrease something</origin>
+		<speech>V.</speech>
+		<meaning>（使）減少</meaning>
+	</vocab>
+	<vocab>
+		<origin>Delay something or doing something</origin>
+		<speech>V.</speech>
+		<meaning>（使）延遲</meaning>
+	</vocab>
+	<vocab>
+		<origin>Demand something</origin>
+		<speech>V.</speech>
+		<meaning>有說服力地請求；需求</meaning>
+	</vocab>
+	<vocab>
+		<origin>Be demanded of something</origin>
+		<speech>V.</speech>
+		<meaning>需要</meaning>
+	</vocab>
+	<vocab>
+		<origin>Demonstrate something</origin>
+		<speech>V.</speech>
+		<meaning>顯示；表明；表露；顯露</meaning>
+	</vocab>
+	<vocab>
+		<origin>Demonstrate against something</origin>
+		<speech>V.</speech>
+		<meaning>示威，遊行</meaning>
+	</vocab>
+	<vocab>
+		<origin>Deposit something</origin>
+		<speech>V.</speech>
+		<meaning>留下；（在銀行或保險箱中）存放，儲存（尤指金錢）</meaning>
+	</vocab>
+	<vocab>
+		<origin>Depress somebody</origin>
+		<speech>V.</speech>
+		<meaning>使憂鬱，使沮喪</meaning>
+	</vocab>
+	<vocab>
+		<origin>Deprive somebody of something</origin>
+		<speech>V.</speech>
+		<meaning>剝奪做工銻</meaning>
+	</vocab>
+	<vocab>
+		<origin>Deprive something money</origin>
+		<speech>V.</speech>
+		<meaning>使貶值，使降價</meaning>
+	</vocab>
+	<vocab>
+		<origin>Deprive something business operation</origin>
+		<speech>V.</speech>
+		<meaning>使蕭條，使不景氣</meaning>
+	</vocab>
+	<vocab>
+		<origin>Derive something from something</origin>
+		<speech>V.</speech>
+		<meaning>從…中得到…</meaning>
+	</vocab>
+	<vocab>
+		<origin>Derive from something</origin>
+		<speech>V.</speech>
+		<meaning>源自</meaning>
+	</vocab>
+	<vocab>
+		<origin>Describe something</origin>
+		<speech>V.</speech>
+		<meaning>描述</meaning>
+	</vocab>
+	<vocab>
+		<origin>Deserve something</origin>
+		<speech>V.</speech>
+		<meaning>值得；應得</meaning>
+	</vocab>
+	<vocab>
+		<origin>Despise somebody or something for something</origin>
+		<speech>V.</speech>
+		<meaning>鄙視；厭惡</meaning>
+	</vocab>
+	<vocab>
+		<origin>Destroy something</origin>
+		<speech>V.</speech>
+		<meaning>毀壞，摧毀</meaning>
+	</vocab>
+	<vocab>
+		<origin>Be determined by something</origin>
+		<speech>V.</speech>
+		<meaning>被決定</meaning>
+	</vocab>
+	<vocab>
+		<origin>Determind to something or something</origin>
+		<speech>V.</speech>
+		<meaning>下決心</meaning>
+	</vocab>
+	<vocab>
+		<origin>Determine something</origin>
+		<speech>V.</speech>
+		<meaning>查明，探索</meaning>
+	</vocab>
+	<vocab>
+		<origin>Devote time, effort or love to somebody</origin>
+		<speech>V.</speech>
+		<meaning>將…貢獻給</meaning>
+	</vocab>
+	<vocab>
+		<origin>Differ from somebody or between somebody and somebody in something</origin>
+		<speech>V.</speech>
+		<meaning>有區別</meaning>
+	</vocab>
+	<vocab>
+		<origin>Differ on something with somebody</origin>
+		<speech>V.</speech>
+		<meaning>意見不一致</meaning>
+	</vocab>
+	<vocab>
+		<origin>Beg to differ or disagree something</origin>
+		<speech>V.</speech>
+		<meaning>（禮貌的說法）恐怕我難以苟同</meaning>
+	</vocab>
+	<vocab>
+		<origin>Agree to differ</origin>
+		<speech>V.</speech>
+		<meaning>同意各自保留不同意見</meaning>
+	</vocab>
+	<vocab>
+		<origin>Digest something</origin>
+		<speech>V. Eat</speech>
+		<meaning>（使）消化</meaning>
+	</vocab>
+	<vocab>
+		<origin>Digest something</origin>
+		<speech>V. Understand</speech>
+		<meaning>理解，吸收（資訊）</meaning>
+	</vocab>
+	<vocab>
+		<origin>Disappoint</origin>
+		<speech>V.</speech>
+		<meaning>（使）失望，（使）沮喪</meaning>
+	</vocab>
+	<vocab>
+		<origin>Discount somebody or something</origin>
+		<speech>V.</speech>
+		<meaning>忽視，不理會</meaning>
+	</vocab>
+	<vocab>
+		<origin>Be discounted</origin>
+		<speech>V.</speech>
+		<meaning>打折；減價</meaning>
+	</vocab>
+	<vocab>
+		<origin>Discourage somebody</origin>
+		<speech>V.</speech>
+		<meaning>使心灰意冷</meaning>
+	</vocab>
+	<vocab>
+		<origin>Discourage somebody from something</origin>
+		<speech>V.</speech>
+		<meaning>（試圖）阻撓，設置障礙阻止</meaning>
+	</vocab>
+	<vocab>
+		<origin>Discriminate against or in favour of somebody</origin>
+		<speech>V.</speech>
+		<meaning>歧視；區別對待</meaning>
+	</vocab>
+	<vocab>
+		<origin>Discriminate between somebody and somebody</origin>
+		<speech>V.</speech>
+		<meaning>區別；分辨</meaning>
+	</vocab>
+	<vocab>
+		<origin>Disguise somebody as something</origin>
+		<speech>V.</speech>
+		<meaning>給…化裝，給…喬裝打扮</meaning>
+	</vocab>
+	<vocab>
+		<origin>Display something</origin>
+		<speech>V.</speech>
+		<meaning>佈置，排列</meaning>
+	</vocab>
+	<vocab>
+		<origin>Display a emotion</origin>
+		<speech>V.</speech>
+		<meaning>表露（某種情感）</meaning>
+	</vocab>
+	<vocab>
+		<origin>Dispose of somebody or something</origin>
+		<speech>V.</speech>
+		<meaning>清除；處理；解決；</meaning>
+	</vocab>
+	<vocab>
+		<origin>Dispute something</origin>
+		<speech>V.</speech>
+		<meaning>（對…）有異議；爭論</meaning>
+	</vocab>
+	<vocab>
+		<origin>Distinguish between something and something</origin>
+		<speech>V.</speech>
+		<meaning>區分，分辨；</meaning>
+	</vocab>
+	<vocab>
+		<origin>Ditinguish something from something</origin>
+		<speech>V.</speech>
+		<meaning>區分，分辨；</meaning>
+	</vocab>
+	<vocab>
+		<origin>Distinguish yourself</origin>
+		<speech>V.</speech>
+		<meaning>使自己出類拔萃，表現突出</meaning>
+	</vocab>
+	<vocab>
+		<origin>Distribute something</origin>
+		<speech>V.</speech>
+		<meaning>分配</meaning>
+	</vocab>
+	<vocab>
+		<origin>Disturb somebody</origin>
+		<speech>V.</speech>
+		<meaning>打斷；幹擾；使煩惱</meaning>
+	</vocab>
+	<vocab>
+		<origin>Disturb something</origin>
+		<speech>V.</speech>
+		<meaning>移動；改動，使變動</meaning>
+	</vocab>
+	<vocab>
+		<origin>Disturb the peace</origin>
+		<speech>V.</speech>
+		<meaning>擾亂治安</meaning>
+	</vocab>
+	<vocab>
+		<origin>Dodge something</origin>
+		<speech>V.</speech>
+		<meaning>回避，逃避</meaning>
+	</vocab>
+	<vocab>
+		<origin>Dodge to avoid</origin>
+		<speech>V.</speech>
+		<meaning>閃（身）避開</meaning>
+	</vocab>
+	<vocab>
+		<origin>Dread something</origin>
+		<speech>V.</speech>
+		<meaning>對…感到極度恐懼；擔心</meaning>
+	</vocab>
+	<vocab>
+		<origin>Dread to think</origin>
+		<speech>V.</speech>
+		<meaning>不敢想</meaning>
+	</vocab>
+	<vocab>
+		<origin>Echo</origin>
+		<speech>V.</speech>
+		<meaning>發出回聲；重複；使産生似曾相識的感覺</meaning>
+	</vocab>
+	<vocab>
+		<origin>Eliminate something</origin>
+		<speech>V.</speech>
+		<meaning>排除；消除</meaning>
+	</vocab>
+	<vocab>
+		<origin>Be eliminated</origin>
+		<speech>V.</speech>
+		<meaning>（比賽中）淘汰</meaning>
+	</vocab>
+	<vocab>
+		<origin>Embark</origin>
+		<speech>V.</speech>
+		<meaning>上船</meaning>
+	</vocab>
+	<vocab>
+		<origin>Embark on something</origin>
+		<speech>V.</speech>
+		<meaning>開始，著手做（新的或重要的事情）</meaning>
+	</vocab>
+	<vocab>
+		<origin>Embarrass sombody</origin>
+		<speech>V.</speech>
+		<meaning>使尷尬，使窘迫</meaning>
+	</vocab>
+	<vocab>
+		<origin>Emerge from something</origin>
+		<speech>V.</speech>
+		<meaning>出現，露出；（從困境中）擺脫出來，存活下來</meaning>
+	</vocab>
+	<vocab>
+		<origin>Emerge</origin>
+		<speech>V.</speech>
+		<meaning>（尤指經過審查或訊問後）為人知曉，顯露</meaning>
+	</vocab>
+	<vocab>
+		<origin>Emphasize that ...</origin>
+		<speech>V.</speech>
+		<meaning>強調；重視</meaning>
+	</vocab>
+	<vocab>
+		<origin>Emphasize something</origin>
+		<speech>V.</speech>
+		<meaning>使突出；使明顯</meaning>
+	</vocab>
+	<vocab>
+		<origin>Employ somebody as a position to do something</origin>
+		<speech>V.</speech>
+		<meaning>僱用</meaning>
+	</vocab>
+	<vocab>
+		<origin>Employ something to do something</origin>
+		<speech>V.</speech>
+		<meaning>利用…去做…</meaning>
+	</vocab>
+	<vocab>
+		<origin>Be employed in doing something</origin>
+		<speech>V.</speech>
+		<meaning>花時間做，從事於</meaning>
+	</vocab>
+	<vocab>
+		<origin>Encounter somebody</origin>
+		<speech>V.</speech>
+		<meaning>邂逅，不期而遇，偶然碰到</meaning>
+	</vocab>
+	<vocab>
+		<origin>Encounter something</origin>
+		<speech>V.</speech>
+		<meaning>遭遇，遇到（尤指不愉快的事情）</meaning>
+	</vocab>
+	<vocab>
+		<origin>Encourage somebody to do</origin>
+		<speech>V.</speech>
+		<meaning>鼓勵…做…</meaning>
+	</vocab>
+	<vocab>
+		<origin>Encourage something</origin>
+		<speech>V.</speech>
+		<meaning>促進；助長</meaning>
+	</vocab>
+	<vocab>
+		<origin>Endure something</origin>
+		<speech>V.</speech>
+		<meaning>忍受</meaning>
+	</vocab>
+	<vocab>
+		<origin>Endure for or until</origin>
+		<speech>V.</speech>
+		<meaning>持續；持久</meaning>
+	</vocab>
+	<vocab>
+		<origin>Enforce something</origin>
+		<speech>V.</speech>
+		<meaning>使服從（法律）；（強制）執行，把…加於</meaning>
+	</vocab>
+	<vocab>
+		<origin>Equip with something</origin>
+		<speech>V.</speech>
+		<meaning>裝備</meaning>
+	</vocab>
+	<vocab>
+		<origin>Equip somebody with something</origin>
+		<speech>V.</speech>
+		<meaning>使有準備；訓練</meaning>
+	</vocab>
+	<vocab>
+		<origin>Be established</origin>
+		<speech>V.</speech>
+		<meaning>設立；創立；使得到承認；使被接受</meaning>
+	</vocab>
+	<vocab>
+		<origin>Establish yourself as a successful position</origin>
+		<speech>V.</speech>
+		<meaning>確立（某種地位）</meaning>
+	</vocab>
+	<vocab>
+		<origin>Establish something</origin>
+		<speech>V.</speech>
+		<meaning>查實；證實</meaning>
+	</vocab>
+	<vocab>
+		<origin>Estimate something or that ...</origin>
+		<speech>V.</speech>
+		<meaning>估計；估算；估價</meaning>
+	</vocab>
+	<vocab>
+		<origin>Exaggerate something</origin>
+		<speech>V.</speech>
+		<meaning>誇張；對…言過其實</meaning>
+	</vocab>
+	<vocab>
+		<origin>Exceed something</origin>
+		<speech>V.</speech>
+		<meaning>超出（數量）；超越（規定的範圍）</meaning>
+	</vocab>
+	<vocab>
+		<origin>Exchange something for something</origin>
+		<speech>V.</speech>
+		<meaning>交換；交流</meaning>
+	</vocab>
+	<vocab>
+		<origin>Exclude something from something</origin>
+		<speech>V.</speech>
+		<meaning>阻止…進入；把…排斥在外</meaning>
+	</vocab>
+	<vocab>
+		<origin>Exclude something</origin>
+		<speech>V.</speech>
+		<meaning>（有意地）不包括；認為…不可能</meaning>
+	</vocab>
+	<vocab>
+		<origin>Exhaust somebody</origin>
+		<speech>V.</speech>
+		<meaning>使筋疲力竭</meaning>
+	</vocab>
+	<vocab>
+		<origin>Exhaust something</origin>
+		<speech>V.</speech>
+		<meaning>耗盡</meaning>
+	</vocab>
+	<vocab>
+		<origin>Exhibit something</origin>
+		<speech>V.</speech>
+		<meaning>展出，展覽</meaning>
+	</vocab>
+	<vocab>
+		<origin>Something exist</origin>
+		<speech>V.</speech>
+		<meaning>存在；實際上有；（艱難）存活</meaning>
+	</vocab>
+	<vocab>
+		<origin>Expand</origin>
+		<speech>V.</speech>
+		<meaning>（使）（尺寸、數量或重要性）擴大，增加</meaning>
+	</vocab>
+	<vocab>
+		<origin>Expand on something</origin>
+		<speech>V.</speech>
+		<meaning>對…詳述</meaning>
+	</vocab>
+	<vocab>
+		<origin>Explode</origin>
+		<speech>V.</speech>
+		<meaning>突增</meaning>
+	</vocab>
+	<vocab>
+		<origin>Explode something</origin>
+		<speech>V.</speech>
+		<meaning>（使）爆炸；推翻，駁倒</meaning>
+	</vocab>
+	<vocab>
+		<origin>Explode into a emotion</origin>
+		<speech>V.</speech>
+		<meaning>（情感）突然爆發</meaning>
+	</vocab>
+	<vocab>
+		<origin>Exploit something</origin>
+		<speech>V.</speech>
+		<meaning>有效地利用；發揮</meaning>
+	</vocab>
+	<vocab>
+		<origin>Exploit somebody</origin>
+		<speech>V.</speech>
+		<meaning>（出於私利）利用；剝削</meaning>
+	</vocab>
+	<vocab>
+		<origin>Explore something</origin>
+		<speech>V.</speech>
+		<meaning>探索；勘查；仔細研究</meaning>
+	</vocab>
+	<vocab>
+		<origin>Export something to somewhere</origin>
+		<speech>V.</speech>
+		<meaning>輸出；傳播</meaning>
+	</vocab>
+	<vocab>
+		<origin>Expose something</origin>
+		<speech>V.</speech>
+		<meaning>暴露；揭穿壞事</meaning>
+	</vocab>
+	<vocab>
+		<origin>Expose somebody as a liar</origin>
+		<speech>V.</speech>
+		<meaning>揭發…是個騙子</meaning>
+	</vocab>
+	<vocab>
+		<origin>Expose somebody to something</origin>
+		<speech>V.</speech>
+		<meaning>使某人遭受（有害或不快的遭遇）；使（某人）暴露於（險境）</meaning>
+	</vocab>
+	<vocab>
+		<origin>Express something</origin>
+		<speech>V.</speech>
+		<meaning>陳述；表達；表露；快遞郵寄</meaning>
+	</vocab>
+	<vocab>
+		<origin>Express yourself</origin>
+		<speech>V.</speech>
+		<meaning>表達自己（想法或感受）</meaning>
+	</vocab>
+	<vocab>
+		<origin>Extend something</origin>
+		<speech>V.</speech>
+		<meaning>（使）延伸；（使）擴大；</meaning>
+	</vocab>
+	<vocab>
+		<origin>Extend something to somebody</origin>
+		<speech>V.</speech>
+		<meaning>給予</meaning>
+	</vocab>
+	<vocab>
+		<origin>Extend to somebody or something</origin>
+		<speech>V.</speech>
+		<meaning>包括；影響到；適用於</meaning>
+	</vocab>
+	<vocab>
+		<origin>Extend somebody</origin>
+		<speech>V.</speech>
+		<meaning>使竭盡全力</meaning>
+	</vocab>
+	<vocab>
+		<origin>Extract something from something</origin>
+		<speech>V.</speech>
+		<meaning>提取；設法獲取</meaning>
+	</vocab>
+	<vocab>
+		<origin>Faint</origin>
+		<speech>V.</speech>
+		<meaning>（短時間）昏厥；暈倒</meaning>
+	</vocab>
+	<vocab>
+		<origin>Fasten something on or to or together something</origin>
+		<speech>V.</speech>
+		<meaning>扣緊；把…固定在…</meaning>
+	</vocab>
+	<vocab>
+		<origin>Fasten on or upon something</origin>
+		<speech>V.</speech>
+		<meaning>集中注意力於</meaning>
+	</vocab>
+	<vocab>
+		<origin>Float</origin>
+		<speech>V.</speech>
+		<meaning>漂浮</meaning>
+	</vocab>
+	<vocab>
+		<origin>Float an idea</origin>
+		<speech>V.</speech>
+		<meaning>提出，提請考慮（計劃或想法）</meaning>
+	</vocab>
+	<vocab>
+		<origin>Float a value</origin>
+		<speech>V.</speech>
+		<meaning>（使）（貨幣）實現匯率自由浮動</meaning>
+	</vocab>
+	<vocab>
+		<origin>Flourish</origin>
+		<speech>V.</speech>
+		<meaning>茁壯成長；蓬勃發展；</meaning>
+	</vocab>
+	<vocab>
+		<origin>Flourish something</origin>
+		<speech>V.</speech>
+		<meaning>（為引人注意）揮舞</meaning>
+	</vocab>
+	<vocab>
+		<origin>Forbid something</origin>
+		<speech>V.</speech>
+		<meaning>（尤指官方）禁止，妨礙</meaning>
+	</vocab>
+	<vocab>
+		<origin>Forbid somebody to do something or from doing something</origin>
+		<speech>V.</speech>
+		<meaning>（尤指官方）禁止做</meaning>
+	</vocab>
+	<vocab>
+		<origin>Heaven forbid that ...</origin>
+		<speech>V.</speech>
+		<meaning>但願不會發生這事</meaning>
+	</vocab>
+	<vocab>
+		<origin>Forgive somebody for something</origin>
+		<speech>V.</speech>
+		<meaning>寬恕</meaning>
+	</vocab>
+	<vocab>
+		<origin>Forgive me</origin>
+		<speech>V.</speech>
+		<meaning>對不起，請原諒</meaning>
+	</vocab>
+	<vocab>
+		<origin>To err is human</origin>
+		<speech>V.</speech>
+		<meaning> 人非聖賢，孰能無過</meaning>
+	</vocab>
+	<vocab>
+		<origin>Fulfil something</origin>
+		<speech>V.</speech>
+		<meaning>實現；履行</meaning>
+	</vocab>
+	<vocab>
+		<origin>Fulfil somebody</origin>
+		<speech>V.</speech>
+		<meaning>滿足；使滿意</meaning>
+	</vocab>
+	<vocab>
+		<origin>Furnish something</origin>
+		<speech>V.</speech>
+		<meaning>爲…配備傢俱</meaning>
+	</vocab>
+	<vocab>
+		<origin>Furnish somebody with something</origin>
+		<speech>V.</speech>
+		<meaning>向（某人）提供</meaning>
+	</vocab>
+	<vocab>
+		<origin>Gamble on something</origin>
+		<speech>V.</speech>
+		<meaning>賭博；冒…的風險</meaning>
+	</vocab>
+	<vocab>
+		<origin>Generate something</origin>
+		<speech>V.</speech>
+		<meaning>使存在</meaning>
+	</vocab>
+	<vocab>
+		<origin>Generate energy</origin>
+		<speech>V.</speech>
+		<meaning>（以某種形式）産生（能量等）</meaning>
+	</vocab>
+	<vocab>
+		<origin>Graduate from somewhere</origin>
+		<speech>V.</speech>
+		<meaning>成功完成第一個大學學位</meaning>
+	</vocab>
+	<vocab>
+		<origin>Graduate school, college or university</origin>
+		<speech>V.</speech>
+		<meaning>畢業（於）</meaning>
+	</vocab>
+	<vocab>
+		<origin>Graduate from doing something to doing something</origin>
+		<speech>V.</speech>
+		<meaning>晉升；進展</meaning>
+	</vocab>
+	<vocab>
+		<origin>Grant somebody something</origin>
+		<speech>V.</speech>
+		<meaning>（通常指官方）准予，授予</meaning>
+	</vocab>
+	<vocab>
+		<origin>Granted that ...</origin>
+		<speech>V.</speech>
+		<meaning>假設</meaning>
+	</vocab>
+	<vocab>
+		<origin>Grant that ...</origin>
+		<speech>V.</speech>
+		<meaning>（常指在表達相反的意見之前表示讓步）承認，同意</meaning>
+	</vocab>
+	<vocab>
+		<origin>Take somebody or something for granted</origin>
+		<speech>V.</speech>
+		<meaning>（認為理所當然而）不去重視…</meaning>
+	</vocab>
+	<vocab>
+		<origin>Take something for granted</origin>
+		<speech>V.</speech>
+		<meaning>認為…是理所當然的</meaning>
+	</vocab>
+	<vocab>
+		<origin>Grasp something</origin>
+		<speech>V.</speech>
+		<meaning>快速抓緊；領悟（尤指費解之事）</meaning>
+	</vocab>
+	<vocab>
+		<origin>Grasp an opportunity</origin>
+		<speech>V.</speech>
+		<meaning>毫不猶豫地把握住（機會）</meaning>
+	</vocab>
+	<vocab>
+		<origin>Grasp at an opportunity</origin>
+		<speech>V.</speech>
+		<meaning>嘗試抓住（機會）</meaning>
+	</vocab>
+	<vocab>
+		<origin>Grasp at something</origin>
+		<speech>V.</speech>
+		<meaning>嘗試抓住或觸摸</meaning>
+	</vocab>
+	<vocab>
+		<origin>Heal something</origin>
+		<speech>V.</speech>
+		<meaning>治癒</meaning>
+	</vocab>
+	<vocab>
+		<origin>Be healing up</origin>
+		<speech>V.</speech>
+		<meaning>癒合</meaning>
+	</vocab>
+	<vocab>
+		<origin>Heal bad situation or painful emotion</origin>
+		<speech>V.</speech>
+		<meaning>（使）（壞的情況）好轉；（使）（情感上的傷口）癒合</meaning>
+	</vocab>
+	<vocab>
+		<origin>Hesitate to do something</origin>
+		<speech>V.</speech>
+		<meaning>猶豫</meaning>
+	</vocab>
+	<vocab>
+		<origin>Ignore somebody or something</origin>
+		<speech>V.</speech>
+		<meaning>故意地不理睬</meaning>
+	</vocab>
+	<vocab>
+		<origin>Illustrate something with something</origin>
+		<speech>V.</speech>
+		<meaning>（尤指用例子）說明；給（書籍、雜誌等）畫插圖</meaning>
+	</vocab>
+	<vocab>
+		<origin>Imply that ...</origin>
+		<speech>V.</speech>
+		<meaning>暗示</meaning>
+	</vocab>
+	<vocab>
+		<origin>Imply that ...</origin>
+		<speech>V.</speech>
+		<meaning>使成為必需</meaning>
+	</vocab>
+	<vocab>
+		<origin>Impose something on something for somebody</origin>
+		<speech>V.</speech>
+		<meaning>強制實行</meaning>
+	</vocab>
+	<vocab>
+		<origin>Impose something on somebody</origin>
+		<speech>V.</speech>
+		<meaning>把（尤指信仰或生活方式）強加於</meaning>
+	</vocab>
+	<vocab>
+		<origin>Impose on somebody to do something</origin>
+		<speech>V.</speech>
+		<meaning>勉強</meaning>
+	</vocab>
+	<vocab>
+		<origin>Impress somebody with something</origin>
+		<speech>V.</speech>
+		<meaning>給…留下深刻印象</meaning>
+	</vocab>
+	<vocab>
+		<origin>Impress something on or upon somebody</origin>
+		<speech>V.</speech>
+		<meaning>使（某人）明白…的重要性（或價值）</meaning>
+	</vocab>
+	<vocab>
+		<origin>Be imprisoned for a crime</origin>
+		<speech>V.</speech>
+		<meaning>被囚禁</meaning>
+	</vocab>
+	<vocab>
+		<origin>Improve something</origin>
+		<speech>V.</speech>
+		<meaning>改善</meaning>
+	</vocab>
+	<vocab>
+		<origin>Improve on something</origin>
+		<speech>V.</speech>
+		<meaning>改進；提高</meaning>
+	</vocab>
+	<vocab>
+		<origin>Include something</origin>
+		<speech>V.</speech>
+		<meaning>包括</meaning>
+	</vocab>
+	<vocab>
+		<origin>Indicate to somebody that ...</origin>
+		<speech>V.</speech>
+		<meaning>標示；表明；顯示</meaning>
+	</vocab>
+	<vocab>
+		<origin>Indicate something</origin>
+		<speech>V.</speech>
+		<meaning>標示</meaning>
+	</vocab>
+	<vocab>
+		<origin>Indulge in something</origin>
+		<speech>V.</speech>
+		<meaning>（尤指縱容）放縱</meaning>
+	</vocab>
+	<vocab>
+		<origin>Infect somebody with a disease</origin>
+		<speech>V.</speech>
+		<meaning>（疾病）傳染</meaning>
+	</vocab>
+	<vocab>
+		<origin>a emotion infect somebody</origin>
+		<speech>V.</speech>
+		<meaning>（情感）感染（別人）</meaning>
+	</vocab>
+	<vocab>
+		<origin>Inform somebody of something</origin>
+		<speech>V.</speech>
+		<meaning>通知事件發生</meaning>
+	</vocab>
+	<vocab>
+		<origin>Inform somebody about something</origin>
+		<speech>V.</speech>
+		<meaning>告知字件詳情</meaning>
+	</vocab>
+	<vocab>
+		<origin>Inform against or on somebody</origin>
+		<speech>V.</speech>
+		<meaning>（向警方）告發（某人）</meaning>
+	</vocab>
+	<vocab>
+		<origin>Injure somebody</origin>
+		<speech>V.</speech>
+		<meaning>傷害</meaning>
+	</vocab>
+	<vocab>
+		<origin>Enquire about</origin>
+		<speech>V.</speech>
+		<meaning>詢問</meaning>
+	</vocab>
+	<vocab>
+		<origin>Enquire within</origin>
+		<speech>V.</speech>
+		<meaning>（寫在建築物的告示上）詳情請入內查詢</meaning>
+	</vocab>
+	<vocab>
+		<origin>Enquire after somebody</origin>
+		<speech>V.</speech>
+		<meaning>問候，詢問（尤指健康狀況）</meaning>
+	</vocab>
+	<vocab>
+		<origin>Enquire into something</origin>
+		<speech>V.</speech>
+		<meaning>調查，查究</meaning>
+	</vocab>
+	<vocab>
+		<origin>Inspect something</origin>
+		<speech>V.</speech>
+		<meaning>檢查；審視；視察；檢閱</meaning>
+	</vocab>
+	<vocab>
+		<origin>Insist on doing something</origin>
+		<speech>V.</speech>
+		<meaning>咬定</meaning>
+	</vocab>
+	<vocab>
+		<origin>Intend somebody to do something</origin>
+		<speech>V.</speech>
+		<meaning>計劃</meaning>
+	</vocab>
+	<vocab>
+		<origin>Interact with</origin>
+		<speech>V.</speech>
+		<meaning>交流；互相影響</meaning>
+	</vocab>
+	<vocab>
+		<origin>Interfere</origin>
+		<speech>V.</speech>
+		<meaning>干預</meaning>
+	</vocab>
+	<vocab>
+		<origin>Interfere with something</origin>
+		<speech>V.</speech>
+		<meaning>妨礙</meaning>
+	</vocab>
+	<vocab>
+		<origin>Interfere with somebody</origin>
+		<speech>V.</speech>
+		<meaning>猥褻（幼童）</meaning>
+	</vocab>
+	<vocab>
+		<origin>Interpret something</origin>
+		<speech>V.</speech>
+		<meaning>理解；傳譯</meaning>
+	</vocab>
+	<vocab>
+		<origin>Intrude into somebody or somewhere</origin>
+		<speech>V.</speech>
+		<meaning>闖入，侵擾</meaning>
+	</vocab>
+	<vocab>
+		<origin>Invest something in something or doing something</origin>
+		<speech>V.</speech>
+		<meaning>投資</meaning>
+	</vocab>
+	<vocab>
+		<origin>Invest in something</origin>
+		<speech>V.</speech>
+		<meaning>購買（認為有用的東西，即使貴）</meaning>
+	</vocab>
+	<vocab>
+		<origin>Invest somebody or something with something</origin>
+		<speech>V.</speech>
+		<meaning>賦予…（權）以…，使…似乎具有（某種特徵）</meaning>
+	</vocab>
+	<vocab>
+		<origin>Investigate something</origin>
+		<speech>V.</speech>
+		<meaning>（尤指為揭開真相）調查</meaning>
+	</vocab>
+	<vocab>
+		<origin>Involve somebody in something</origin>
+		<speech>V.</speech>
+		<meaning>涉及；使參與</meaning>
+	</vocab>
+	<vocab>
+		<origin>Irritate somebody</origin>
+		<speech>V.</speech>
+		<meaning>激怒，使惱火</meaning>
+	</vocab>
+	<vocab>
+		<origin>Irritate something</origin>
+		<speech>V.</speech>
+		<meaning>使發炎；使疼痛</meaning>
+	</vocab>
+	<vocab>
+		<origin>Isolate somebody from somebody</origin>
+		<speech>V.</speech>
+		<meaning>隔離；孤立</meaning>
+	</vocab>
+	<vocab>
+		<origin>Justify something</origin>
+		<speech>V.</speech>
+		<meaning>證明…正當（或有理、正確）</meaning>
+	</vocab>
+	<vocab>
+		<origin>Justify yourself to somebody</origin>
+		<speech>V.</speech>
+		<meaning>為自己的行為作解釋</meaning>
+	</vocab>
+	<vocab>
+		<origin>Lack something</origin>
+		<speech>V.</speech>
+		<meaning>缺乏</meaning>
+	</vocab>
+	<vocab>
+		<origin>Lack direction</origin>
+		<speech>V.</speech>
+		<meaning>失去了方向</meaning>
+	</vocab>
+	<vocab>
+		<origin>Launch something</origin>
+		<speech>V.</speech>
+		<meaning>啓動</meaning>
+	</vocab>
+	<vocab>
+		<origin>Launch yourself</origin>
+		<speech>V.</speech>
+		<meaning>猛跳</meaning>
+	</vocab>
+	<vocab>
+		<origin>Launch into something</origin>
+		<speech>V.</speech>
+		<meaning>開始抨擊</meaning>
+	</vocab>
+	<vocab>
+		<origin>Maintain something</origin>
+		<speech>V.</speech>
+		<meaning>維持；保養</meaning>
+	</vocab>
+	<vocab>
+		<origin>Maintain that ...</origin>
+		<speech>V.</speech>
+		<meaning>堅稱；斷言</meaning>
+	</vocab>
+	<vocab>
+		<origin>Maintain somebody</origin>
+		<speech>V.</speech>
+		<meaning>供養；撫養</meaning>
+	</vocab>
+	<vocab>
+		<origin>Manage something or to do something</origin>
+		<speech>V.</speech>
+		<meaning>成功做到（尤指困難之事）</meaning>
+	</vocab>
+	<vocab>
+		<origin>Manage on something</origin>
+		<speech>V.</speech>
+		<meaning>勉強生活下去</meaning>
+	</vocab>
+	<vocab>
+		<origin>Manage something</origin>
+		<speech>V.</speech>
+		<meaning>管理；經營（尤指企業）</meaning>
+	</vocab>
+	<vocab>
+		<origin>Stage-manage something</origin>
+		<speech>V.</speech>
+		<meaning>精心安排</meaning>
+	</vocab>
+	<vocab>
+		<origin>Mediate between somebody and somebody</origin>
+		<speech>V.</speech>
+		<meaning>調解，斡旋</meaning>
+	</vocab>
+	<vocab>
+		<origin>Memorise something</origin>
+		<speech>V.</speech>
+		<meaning>記住；熟記</meaning>
+	</vocab>
+	<vocab>
+		<origin>Mention something</origin>
+		<speech>V.</speech>
+		<meaning>簡單提及；談及</meaning>
+	</vocab>
+	<vocab>
+		<origin>Murder</origin>
+		<speech>V.</speech>
+		<meaning>謀殺</meaning>
+	</vocab>
+	<vocab>
+		<origin>Nap</origin>
+		<speech>V.</speech>
+		<meaning>（尤指日間的）小睡</meaning>
+	</vocab>
+	<vocab>
+		<origin>Neglect somebody or something</origin>
+		<speech>V.</speech>
+		<meaning>疏忽照顧；疏忽</meaning>
+	</vocab>
+	<vocab>
+		<origin>Neglect to do something</origin>
+		<speech>V.</speech>
+		<meaning>疏漏，忘記做</meaning>
+	</vocab>
+	<vocab>
+		<origin>Negotiate with somebody for something</origin>
+		<speech>V.</speech>
+		<meaning>談判，（就…）磋商</meaning>
+	</vocab>
+	<vocab>
+		<origin>Negotiate something</origin>
+		<speech>V.</speech>
+		<meaning>解決（難題）</meaning>
+	</vocab>
+	<vocab>
+		<origin>Negotiate a difficult route</origin>
+		<speech>V.</speech>
+		<meaning>設法越過（難走的路段）</meaning>
+	</vocab>
+	<vocab>
+		<origin>Nominate somebody as a position</origin>
+		<speech>V.</speech>
+		<meaning>提名</meaning>
+	</vocab>
+	<vocab>
+		<origin>Notice something</origin>
+		<speech>V.</speech>
+		<meaning>注意到；感覺到</meaning>
+	</vocab>
+	<vocab>
+		<origin>Be noticed</origin>
+		<speech>V.</speech>
+		<meaning>（以出眾的才華）引起（公眾）關注</meaning>
+	</vocab>
+	<vocab>
+		<origin>Notify somebody of something</origin>
+		<speech>V.</speech>
+		<meaning>（正式）通知</meaning>
+	</vocab>
+	<vocab>
+		<origin>Nourish somebody or something</origin>
+		<speech>V.</speech>
+		<meaning>養育；滋養</meaning>
+	</vocab>
+	<vocab>
+		<origin>Nourish a felling, belief or plan</origin>
+		<speech>V.</speech>
+		<meaning>（經過思考）支持；鼓勵</meaning>
+	</vocab>
+	<vocab>
+		<origin>Obtain something</origin>
+		<speech>V.</speech>
+		<meaning>獲得（尤指透過要求，購買，工作）</meaning>
+	</vocab>
+	<vocab>
+		<origin>Observe something</origin>
+		<speech>V.</speech>
+		<meaning>注意到；（為了學習）觀察，觀測</meaning>
+	</vocab>
+	<vocab>
+		<origin>Observe that ...</origin>
+		<speech>V.</speech>
+		<meaning>評論，評述</meaning>
+	</vocab>
+	<vocab>
+		<origin>Observe a law, rule or custom</origin>
+		<speech>V.</speech>
+		<meaning>遵守（法律、規則或習俗）</meaning>
+	</vocab>
+	<vocab>
+		<origin>Occupy something</origin>
+		<speech>V.</speech>
+		<meaning>佔用，佔據（空間或時間）</meaning>
+	</vocab>
+	<vocab>
+		<origin>Occupy yourself with doing something</origin>
+		<speech>V.</speech>
+		<meaning>使（某人）忙於或感興趣</meaning>
+	</vocab>
+	<vocab>
+		<origin>Operate something</origin>
+		<speech>V.</speech>
+		<meaning>（使）運行；運作</meaning>
+	</vocab>
+	<vocab>
+		<origin>Oppose somebody or something</origin>
+		<speech>V.</speech>
+		<meaning>反對；抵制</meaning>
+	</vocab>
+	<vocab>
+		<origin>Overcome something</origin>
+		<speech>V.</speech>
+		<meaning>克服；戰勝；</meaning>
+	</vocab>
+	<vocab>
+		<origin>Be overcome with or by</origin>
+		<speech>V.</speech>
+		<meaning>使無法行動（或思考）</meaning>
+	</vocab>
+	<vocab>
+		<origin>Overlook something</origin>
+		<speech>V.</speech>
+		<meaning>眺望；（尤指）俯瞰；忽視</meaning>
+	</vocab>
+	<vocab>
+		<origin>Overlook something bad</origin>
+		<speech>V.</speech>
+		<meaning>寬恕；姑息，對…視而不見</meaning>
+	</vocab>
+	<vocab>
+		<origin>Owe somebody something</origin>
+		<speech>V.</speech>
+		<meaning>欠（債）；該償還</meaning>
+	</vocab>
+	<vocab>
+		<origin>owe something to something</origin>
+		<speech>V.</speech>
+		<meaning>把…歸功於…</meaning>
+	</vocab>
+	<vocab>
+		<origin>Participate in something</origin>
+		<speech>V.</speech>
+		<meaning>參與</meaning>
+	</vocab>
+	<vocab>
+		<origin>Perceive something</origin>
+		<speech>V.</speech>
+		<meaning>認為；看待；察覺，注意到</meaning>
+	</vocab>
+	<vocab>
+		<origin>Perform something</origin>
+		<speech>V.</speech>
+		<meaning>進行，施行；演出</meaning>
+	</vocab>
+	<vocab>
+		<origin>Permit somebody something or to do something</origin>
+		<speech>V.</speech>
+		<meaning>允許；使…有可能</meaning>
+	</vocab>
+	<vocab>
+		<origin>Persist</origin>
+		<speech>V.</speech>
+		<meaning>持續</meaning>
+	</vocab>
+	<vocab>
+		<origin>Persist in doing something</origin>
+		<speech>V.</speech>
+		<meaning>（無理由地和堅持不懈地）做</meaning>
+	</vocab>
+	<vocab>
+		<origin>Persist with something</origin>
+		<speech>V.</speech>
+		<meaning>（無理由地）對…執意</meaning>
+	</vocab>
+	<vocab>
+		<origin>Persuade somebody to do something</origin>
+		<speech>V.</speech>
+		<meaning>勸服某人做某事</meaning>
+	</vocab>
+	<vocab>
+		<origin>Plague somebody or something</origin>
+		<speech>V.</speech>
+		<meaning>不斷困擾，折磨</meaning>
+	</vocab>
+	<vocab>
+		<origin>Plague somebody with questions</origin>
+		<speech>V.</speech>
+		<meaning>（尤指因不停提問而）使煩惱，打攪</meaning>
+	</vocab>
+	<vocab>
+		<origin>Possess something</origin>
+		<speech>V.</speech>
+		<meaning>擁有</meaning>
+	</vocab>
+	<vocab>
+		<origin>Possess somebody to do something</origin>
+		<speech>V.</speech>
+		<meaning>（欲望或想法）影響，控制，支配</meaning>
+	</vocab>
+	<vocab>
+		<origin>Postpone something</origin>
+		<speech>V.</speech>
+		<meaning>使延期</meaning>
+	</vocab>
+	<vocab>
+		<origin>Pray to somebody for something</origin>
+		<speech>V.</speech>
+		<meaning>祈禱；強烈地希望；</meaning>
+	</vocab>
+	<vocab>
+		<origin>Predict something</origin>
+		<speech>V.</speech>
+		<meaning>預料</meaning>
+	</vocab>
+	<vocab>
+		<origin>Preoccupy somebody</origin>
+		<speech>V.</speech>
+		<meaning>使全神貫注</meaning>
+	</vocab>
+	<vocab>
+		<origin>Prescribe something by something</origin>
+		<speech>V.</speech>
+		<meaning>規定</meaning>
+	</vocab>
+	<vocab>
+		<origin>Preserve something</origin>
+		<speech>V.</speech>
+		<meaning>保護，維護</meaning>
+	</vocab>
+	<vocab>
+		<origin>Pretend that ...</origin>
+		<speech>V.</speech>
+		<meaning>偽稱；（遊戲中）裝扮</meaning>
+	</vocab>
+	<vocab>
+		<origin>Not pretend to do something</origin>
+		<speech>V.</speech>
+		<meaning>不想妄稱…</meaning>
+	</vocab>
+	<vocab>
+		<origin>Prevail over something</origin>
+		<speech>V.</speech>
+		<meaning>佔優勢，占上風</meaning>
+	</vocab>
+	<vocab>
+		<origin>Prevail among something</origin>
+		<speech>V.</speech>
+		<meaning>在…盛行</meaning>
+	</vocab>
+	<vocab>
+		<origin>Prevail on or upon somebody</origin>
+		<speech>V.</speech>
+		<meaning>說服（某人）</meaning>
+	</vocab>
+	<vocab>
+		<origin>Prevent somebody from something</origin>
+		<speech>V.</speech>
+		<meaning>阻止；預防</meaning>
+	</vocab>
+	<vocab>
+		<origin>Proceed with something</origin>
+		<speech>V.</speech>
+		<meaning>繼續進行</meaning>
+	</vocab>
+	<vocab>
+		<origin>Proceed to do something</origin>
+		<speech>V.</speech>
+		<meaning>（做完某事後）接著做</meaning>
+	</vocab>
+	<vocab>
+		<origin>Proceed to somewhere</origin>
+		<speech>V.</speech>
+		<meaning>（朝特定方向）前進</meaning>
+	</vocab>
+	<vocab>
+		<origin>Proceed against somebody</origin>
+		<speech>V.</speech>
+		<meaning>起訴（某人）</meaning>
+	</vocab>
+	<vocab>
+		<origin>Be prohibited from doing something</origin>
+		<speech>V.</speech>
+		<meaning>禁止</meaning>
+	</vocab>
+	<vocab>
+		<origin>Prohibit something</origin>
+		<speech>V.</speech>
+		<meaning>使不可能</meaning>
+	</vocab>
+	<vocab>
+		<origin>Prolong something</origin>
+		<speech>V.</speech>
+		<meaning>拖延（時間）</meaning>
+	</vocab>
+	<vocab>
+		<origin>Promote something</origin>
+		<speech>V.</speech>
+		<meaning>促進；推銷；推廣</meaning>
+	</vocab>
+	<vocab>
+		<origin>Be promoted to a position</origin>
+		<speech>V.</speech>
+		<meaning>晉升</meaning>
+	</vocab>
+	<vocab>
+		<origin>Be demoted to a position</origin>
+		<speech>V.</speech>
+		<meaning>降職</meaning>
+	</vocab>
+	<vocab>
+		<origin>Protest against something</origin>
+		<speech>V.</speech>
+		<meaning>抗議；反對</meaning>
+	</vocab>
+	<vocab>
+		<origin>Protest about something</origin>
+		<speech>V.</speech>
+		<meaning>控訴</meaning>
+	</vocab>
+	<vocab>
+		<origin>Lodge a protest or complaint against something</origin>
+		<speech>V.</speech>
+		<meaning>提出抗議</meaning>
+	</vocab>
+	<vocab>
+		<origin>Provide somebody with something</origin>
+		<speech>V.</speech>
+		<meaning>提供</meaning>
+	</vocab>
+	<vocab>
+		<origin>a law or decision provide that ...</origin>
+		<speech>V.</speech>
+		<meaning>（法律或裁決）規定</meaning>
+	</vocab>
+	<vocab>
+		<origin>Provide for somebody</origin>
+		<speech>V.</speech>
+		<meaning>為…提供生活所需</meaning>
+	</vocab>
+	<vocab>
+		<origin>Provide for or against something</origin>
+		<speech>V.</speech>
+		<meaning>為…做準備</meaning>
+	</vocab>
+	<vocab>
+		<origin>Punish somebody with a crime by something</origin>
+		<speech>V.</speech>
+		<meaning>懲罰</meaning>
+	</vocab>
+	<vocab>
+		<origin>Pursue somebody or something</origin>
+		<speech>V.</speech>
+		<meaning>追捕；追擊</meaning>
+	</vocab>
+	<vocab>
+		<origin>Pursue a subject</origin>
+		<speech>V.</speech>
+		<meaning>追查；從事，實行</meaning>
+	</vocab>
+	<vocab>
+		<origin>Pursue the oppisite sex</origin>
+		<speech>V.</speech>
+		<meaning>追求（某人）</meaning>
+	</vocab>
+	<vocab>
+		<origin>Qualify somebody as a position to do something</origin>
+		<speech>V.</speech>
+		<meaning>（使）具有資格做…</meaning>
+	</vocab>
+	<vocab>
+		<origin>Qualify somebody for something</origin>
+		<speech>V.</speech>
+		<meaning>准予</meaning>
+	</vocab>
+	<vocab>
+		<origin>Qualify something</origin>
+		<speech>V.</speech>
+		<meaning>限制，限定</meaning>
+	</vocab>
+	<vocab>
+		<origin>Quarrel about something with somebody</origin>
+		<speech>V.</speech>
+		<meaning>爭吵</meaning>
+	</vocab>
+	<vocab>
+		<origin>Quarrel with something</origin>
+		<speech>V.</speech>
+		<meaning>認為…是錯的</meaning>
+	</vocab>
+	<vocab>
+		<origin>Quit something</origin>
+		<speech>V.</speech>
+		<meaning>離開；放棄</meaning>
+	</vocab>
+	<vocab>
+		<origin>Quote something from somebody</origin>
+		<speech>V.</speech>
+		<meaning>引用，援引</meaning>
+	</vocab>
+	<vocab>
+		<origin>Quote me something that …</origin>
+		<speech>V.</speech>
+		<meaning>（強調）給我舉出…</meaning>
+	</vocab>
+	<vocab>
+		<origin>Quote a price to do something</origin>
+		<speech>V.</speech>
+		<meaning>報價</meaning>
+	</vocab>
+	<vocab>
+		<origin>Recognise somebody or something</origin>
+		<speech>V.</speech>
+		<meaning>認出，識別</meaning>
+	</vocab>
+	<vocab>
+		<origin>Recognise something</origin>
+		<speech>V.</speech>
+		<meaning>正式接受合法</meaning>
+	</vocab>
+	<vocab>
+		<origin>Recommend somebody or something</origin>
+		<speech>V.</speech>
+		<meaning>推薦</meaning>
+	</vocab>
+	<vocab>
+		<origin>Reconcile something and something</origin>
+		<speech>V.</speech>
+		<meaning>調和（兩項對立面）</meaning>
+	</vocab>
+	<vocab>
+		<origin>Be reconciled with each other</origin>
+		<speech>V.</speech>
+		<meaning>重歸於好</meaning>
+	</vocab>
+	<vocab>
+		<origin>Reconcile yourself to something</origin>
+		<speech>V.</speech>
+		<meaning>使甘心於</meaning>
+	</vocab>
+	<vocab>
+		<origin>Recover something</origin>
+		<speech>V.</speech>
+		<meaning>（尤指健康、能力、所有物等）失而復得</meaning>
+	</vocab>
+	<vocab>
+		<origin>Reduce something</origin>
+		<speech>V.</speech>
+		<meaning>減少；減小；降低；縮小</meaning>
+	</vocab>
+	<vocab>
+		<origin>Reduce somebody to something e.g. tears</origin>
+		<speech>V.</speech>
+		<meaning>使…情緒低落；使…陷入困境</meaning>
+	</vocab>
+	<vocab>
+		<origin>Reduce somebody to doing something</origin>
+		<meaning>使（某人）不得不做…</meaning>
+	</vocab>
+	<vocab>
+		<origin>Reduce something to something e.g. ruins, rubble</origin>
+		<meaning>將…夷為平地</meaning>
+	</vocab>
+	<vocab>
+		<origin>Refer to something</origin>
+		<speech>V.</speech>
+		<meaning>與…相關</meaning>
+	</vocab>
+	<vocab>
+		<origin>Refer something</origin>
+		<meaning>（尤指簡短地）提到</meaning>
+	</vocab>
+	<vocab>
+		<origin>Refer somebody to something</origin>
+		<meaning>（告訴…去）查閱，參考；讓…向…查詢</meaning>
+	</vocab>
+	<vocab>
+		<origin>Reflect something</origin>
+		<speech>V.</speech>
+		<meaning>顯示；表達</meaning>
+	</vocab>
+	<vocab>
+		<origin>Reflect on something</origin>
+		<speech>V.</speech>
+		<meaning>認真思考（尤指可能性或意見）</meaning>
+	</vocab>
+	<vocab>
+		<origin>Reflect on somebody</origin>
+		<meaning>使給人（尤指不好的）印象或評價</meaning>
+	</vocab>
+	<vocab>
+		<origin>Reform something</origin>
+		<speech>V.</speech>
+		<meaning>改革</meaning>
+	</vocab>
+	<vocab>
+		<origin>Refrain</origin>
+		<speech>V.</speech>
+		<meaning>避免</meaning>
+	</vocab>
+	<vocab>
+		<origin>Refresh somebody</origin>
+		<speech>V.</speech>
+		<meaning>使涼爽；使恢復精力</meaning>
+	</vocab>
+	<vocab>
+		<origin>Refund</origin>
+		<speech>V.</speech>
+		<meaning>退款</meaning>
+	</vocab>
+	<vocab>
+		<origin>Refuse to do something</origin>
+		<speech>V.</speech>
+		<meaning>拒絕做某事</meaning>
+	</vocab>
+	<vocab>
+		<origin>Regard as something</origin>
+		<speech>V.</speech>
+		<meaning>至於作為某事</meaning>
+	</vocab>
+	<vocab>
+		<origin>Register for something</origin>
+		<speech>V.</speech>
+		<meaning>註冊討價還價</meaning>
+	</vocab>
+	<vocab>
+		<origin>Regulate something</origin>
+		<speech>V.</speech>
+		<meaning>規範某物</meaning>
+	</vocab>
+	<vocab>
+		<origin>Reinforce something</origin>
+		<speech>V.</speech>
+		<meaning>加強某物</meaning>
+	</vocab>
+	<vocab>
+		<origin>Reject something</origin>
+		<speech>V.</speech>
+		<meaning>拒絕某事</meaning>
+	</vocab>
+	<vocab>
+		<origin>Release something</origin>
+		<speech>V.</speech>
+		<meaning>發布某物</meaning>
+	</vocab>
+	<vocab>
+		<origin>Remind somebody of something</origin>
+		<speech>V.</speech>
+		<meaning>提醒</meaning>
+	</vocab>
+	<vocab>
+		<origin>Remove something</origin>
+		<speech>V.</speech>
+		<meaning>刪除某事</meaning>
+	</vocab>
+	<vocab>
+		<origin>Rely on something</origin>
+		<speech>V.</speech>
+		<meaning>依靠某事</meaning>
+	</vocab>
+	<vocab>
+		<origin>Repair something</origin>
+		<speech>V.</speech>
+		<meaning>修某事</meaning>
+	</vocab>
+	<vocab>
+		<origin>Replace something</origin>
+		<speech>V.</speech>
+		<meaning>更換某物</meaning>
+	</vocab>
+	<vocab>
+		<origin>Reply to something</origin>
+		<speech>V.</speech>
+		<meaning>答覆</meaning>
+	</vocab>
+	<vocab>
+		<origin>Represent something</origin>
+		<speech>V.</speech>
+		<meaning>代表某事</meaning>
+	</vocab>
+	<vocab>
+		<origin>Reproduce something</origin>
+		<speech>V.</speech>
+		<meaning>重現某物</meaning>
+	</vocab>
+	<vocab>
+		<origin>Request something</origin>
+		<speech>V.</speech>
+		<meaning>要求某事</meaning>
+	</vocab>
+	<vocab>
+		<origin>Resemble somebody</origin>
+		<speech>V.</speech>
+		<meaning>看起來像；與…相似</meaning>
+	</vocab>
+	<vocab>
+		<origin>Resign</origin>
+		<speech>V.</speech>
+		<meaning>辭職</meaning>
+	</vocab>
+	<vocab>
+		<origin>Respond to something</origin>
+		<speech>V.</speech>
+		<meaning>對…回應</meaning>
+	</vocab>
+	<vocab>
+		<origin>Restore something</origin>
+		<speech>V.</speech>
+		<meaning>還原事物</meaning>
+	</vocab>
+	<vocab>
+		<origin>Restrain something</origin>
+		<speech>V.</speech>
+		<meaning>抑制某物</meaning>
+	</vocab>
+	<vocab>
+		<origin>Restrict something</origin>
+		<speech>V.</speech>
+		<meaning>限制某事</meaning>
+	</vocab>
+	<vocab>
+		<origin>Retain something</origin>
+		<speech>V.</speech>
+		<meaning>保留某物</meaning>
+	</vocab>
+	<vocab>
+		<origin>Retire</origin>
+		<speech>V.</speech>
+		<meaning>退休</meaning>
+	</vocab>
+	<vocab>
+		<origin>Reveal something</origin>
+		<speech>V.</speech>
+		<meaning>揭露</meaning>
+	</vocab>
+	<vocab>
+		<origin>Revise something</origin>
+		<speech>V.</speech>
+		<meaning>修改某物</meaning>
+	</vocab>
+	<vocab>
+		<origin>Scatter something</origin>
+		<speech>V.</speech>
+		<meaning>分散某物</meaning>
+	</vocab>
+	<vocab>
+		<origin>Seek</origin>
+		<speech>V.</speech>
+		<meaning>尋找</meaning>
+	</vocab>
+	<vocab>
+		<origin>Seize something</origin>
+		<speech>V.</speech>
+		<meaning>抓住某物</meaning>
+	</vocab>
+	<vocab>
+		<origin>Settle somebody</origin>
+		<speech>V.</speech>
+		<meaning>確定</meaning>
+	</vocab>
+	<vocab>
+		<origin>Share something</origin>
+		<speech>V.</speech>
+		<meaning>分享某物</meaning>
+	</vocab>
+	<vocab>
+		<origin>Slump</origin>
+		<speech>V.</speech>
+		<meaning>暴跌</meaning>
+	</vocab>
+	<vocab>
+		<origin>Sparkle</origin>
+		<speech>V.</speech>
+		<meaning>閃爍</meaning>
+	</vocab>
+	<vocab>
+		<origin>Spoil something</origin>
+		<speech>V.</speech>
+		<meaning>棄渣某物</meaning>
+	</vocab>
+	<vocab>
+		<origin>Sprain something</origin>
+		<speech>V.</speech>
+		<meaning>扭傷某物</meaning>
+	</vocab>
+	<vocab>
+		<origin>Squeeze something</origin>
+		<speech>V.</speech>
+		<meaning>擠壓某事</meaning>
+	</vocab>
+	<vocab>
+		<origin>Stare at somebody</origin>
+		<speech>V.</speech>
+		<meaning>盯著某人</meaning>
+	</vocab>
+	<vocab>
+		<origin>Starve</origin>
+		<speech>V.</speech>
+		<meaning>挨餓</meaning>
+	</vocab>
+	<vocab>
+		<origin>Strive to do something</origin>
+		<speech>V.</speech>
+		<meaning>力爭做某事</meaning>
+	</vocab>
+	<vocab>
+		<origin>Subscribe to something</origin>
+		<speech>V.</speech>
+		<meaning>訂閱</meaning>
+	</vocab>
+	<vocab>
+		<origin>Substitute for something</origin>
+		<speech>V.</speech>
+		<meaning>代替</meaning>
+	</vocab>
+	<vocab>
+		<origin>Suffer</origin>
+		<speech>V.</speech>
+		<meaning>受折磨</meaning>
+	</vocab>
+	<vocab>
+		<origin>Suggest</origin>
+		<speech>V.</speech>
+		<meaning>建議</meaning>
+	</vocab>
+	<vocab>
+		<origin>Summarize something</origin>
+		<speech>V.</speech>
+		<meaning>總結某物</meaning>
+	</vocab>
+	<vocab>
+		<origin>Supplement something with something</origin>
+		<speech>V.</speech>
+		<meaning>增加，補充</meaning>
+	</vocab>
+	<vocab>
+		<origin>Suppress something</origin>
+		<speech>V.</speech>
+		<meaning>抑制某物</meaning>
+	</vocab>
+	<vocab>
+		<origin>Surround</origin>
+		<speech>V.</speech>
+		<meaning>環繞</meaning>
+	</vocab>
+	<vocab>
+		<origin>Survive</origin>
+		<speech>V.</speech>
+		<meaning>生存</meaning>
+	</vocab>
+	<vocab>
+		<origin>Suspect something</origin>
+		<speech>V.</speech>
+		<meaning>認為（某事有可能）</meaning>
+	</vocab>
+	<vocab>
+		<origin>Sustain something</origin>
+		<speech>V.</speech>
+		<meaning>維持事物</meaning>
+	</vocab>
+	<vocab>
+		<origin>Swear to do something</origin>
+		<speech>V.</speech>
+		<meaning>發誓做某事</meaning>
+	</vocab>
+	<vocab>
+		<origin>Sweat</origin>
+		<speech>V.</speech>
+		<meaning>流汗</meaning>
+	</vocab>
+	<vocab>
+		<origin>Tap something</origin>
+		<speech>V.</speech>
+		<meaning>點擊</meaning>
+	</vocab>
+	<vocab>
+		<origin>Tend to do something</origin>
+		<speech>V.</speech>
+		<meaning>傾向於做某事</meaning>
+	</vocab>
+	<vocab>
+		<origin>Threaten somebody to do something</origin>
+		<speech>V.</speech>
+		<meaning>威脅要做某事</meaning>
+	</vocab>
+	<vocab>
+		<origin>Thrive</origin>
+		<speech>V.</speech>
+		<meaning>興旺</meaning>
+	</vocab>
+	<vocab>
+		<origin>Torture something</origin>
+		<speech>V.</speech>
+		<meaning>拷打</meaning>
+	</vocab>
+	<vocab>
+		<origin>Transform something into something</origin>
+		<speech>V.</speech>
+		<meaning>變換某物某事成</meaning>
+	</vocab>
+	<vocab>
+		<origin>Transmit something to somebody</origin>
+		<speech>V.</speech>
+		<meaning>發送某物給某人</meaning>
+	</vocab>
+	<vocab>
+		<origin>Transport to somewhere</origin>
+		<speech>V.</speech>
+		<meaning>運輸某處</meaning>
+	</vocab>
+	<vocab>
+		<origin>Tremble</origin>
+		<speech>V.</speech>
+		<meaning>顫抖</meaning>
+	</vocab>
+	<vocab>
+		<origin>Twist something</origin>
+		<speech>V.</speech>
+		<meaning>扭曲事物</meaning>
+	</vocab>
+	<vocab>
+		<origin>Undergo something</origin>
+		<speech>V.</speech>
+		<meaning>接受某事</meaning>
+	</vocab>
+	<vocab>
+		<origin>Undertake something</origin>
+		<speech>V.</speech>
+		<meaning>承擔某事</meaning>
+	</vocab>
+	<vocab>
+		<origin>Uphold something</origin>
+		<speech>V.</speech>
+		<meaning>堅持某事</meaning>
+	</vocab>
+	<vocab>
+		<origin>Upset something</origin>
+		<speech>V.</speech>
+		<meaning>使心煩意亂</meaning>
+	</vocab>
+	<vocab>
+		<origin>Utilise something to do something</origin>
+		<speech>V.</speech>
+		<meaning>應用某物做某事</meaning>
+	</vocab>
+	<vocab>
+		<origin>Vanish</origin>
+		<speech>V.</speech>
+		<meaning>（尤指突然）消失，滅絕</meaning>
+	</vocab>
+	<vocab>
+		<origin>Verify something</origin>
+		<speech>V.</speech>
+		<meaning>確認某事</meaning>
+	</vocab>
+	<vocab>
+		<origin>Violate something</origin>
+		<speech>V.</speech>
+		<meaning>違反事物</meaning>
+	</vocab>
+	<vocab>
+		<origin>Warrant</origin>
+		<speech>V.</speech>
+		<meaning>擔保</meaning>
+	</vocab>
+	<vocab>
+		<origin>Waste something on something</origin>
+		<speech>V.</speech>
+		<meaning>浪費；濫用</meaning>
+	</vocab>
+	<vocab>
+		<origin>Weep</origin>
+		<speech>V.</speech>
+		<meaning>哭泣</meaning>
+	</vocab>
+	<vocab>
+		<origin>Whistle</origin>
+		<speech>V.</speech>
+		<meaning>吹哨子</meaning>
+	</vocab>
+	<vocab>
+		<origin>Wipe out</origin>
+		<speech>V.</speech>
+		<meaning>消滅</meaning>
+	</vocab>
+	<vocab>
+		<origin>Withhold something</origin>
+		<speech>V.</speech>
+		<meaning>扣壓某事</meaning>
+	</vocab>
+	<vocab>
+		<origin>Withstand something</origin>
+		<speech>V.</speech>
+		<meaning>承受某物</meaning>
+	</vocab>
+	<vocab>
+		<origin>Worry about something</origin>
+		<speech>V.</speech>
+		<meaning>擔心某事</meaning>
+	</vocab>
+	<vocab>
+		<origin>Clamp down on something</origin>
+		<speech>V.</speech>
+		<meaning>打擊</meaning>
+	</vocab>
+</vocabs>

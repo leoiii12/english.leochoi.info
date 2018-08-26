@@ -1,0 +1,433 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<vocabs xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<vocab>
+		<origin>Admiralty</origin>
+		<speech>N.</speech>
+		<meaning>金鐘</meaning>
+	</vocab>
+	<vocab>
+		<origin>Airport</origin>
+		<speech>N.</speech>
+		<meaning>機場</meaning>
+	</vocab>
+	<vocab>
+		<origin>AsiaWorld-Expo</origin>
+		<speech>N.</speech>
+		<meaning>博覽館</meaning>
+	</vocab>
+	<vocab>
+		<origin>Austin</origin>
+		<speech>N.</speech>
+		<meaning>柯士甸</meaning>
+	</vocab>
+	<vocab>
+		<origin>Causeway Bay</origin>
+		<speech>N.</speech>
+		<meaning>銅鑼灣</meaning>
+	</vocab>
+	<vocab>
+		<origin>Central</origin>
+		<speech>N.</speech>
+		<meaning>中環</meaning>
+	</vocab>
+	<vocab>
+		<origin>Chai Wan</origin>
+		<speech>N.</speech>
+		<meaning>柴灣</meaning>
+	</vocab>
+	<vocab>
+		<origin>Che Kung Temple</origin>
+		<speech>N.</speech>
+		<meaning>車公廟</meaning>
+	</vocab>
+	<vocab>
+		<origin>Cheung Sha Wan</origin>
+		<speech>N.</speech>
+		<meaning>長沙灣</meaning>
+	</vocab>
+	<vocab>
+		<origin>Choi Hung</origin>
+		<speech>N.</speech>
+		<meaning>彩虹</meaning>
+	</vocab>
+	<vocab>
+		<origin>City One</origin>
+		<speech>N.</speech>
+		<meaning>第一城</meaning>
+	</vocab>
+	<vocab>
+		<origin>Diamond Hill</origin>
+		<speech>N.</speech>
+		<meaning>鑽石山</meaning>
+	</vocab>
+	<vocab>
+		<origin>Disneyland Resort</origin>
+		<speech>N.</speech>
+		<meaning>迪士尼</meaning>
+	</vocab>
+	<vocab>
+		<origin>East Tsim Sha Tsui</origin>
+		<speech>N.</speech>
+		<meaning>尖東</meaning>
+	</vocab>
+	<vocab>
+		<origin>Fanling</origin>
+		<speech>N.</speech>
+		<meaning>粉嶺</meaning>
+	</vocab>
+	<vocab>
+		<origin>Fo Tan</origin>
+		<speech>N.</speech>
+		<meaning>火炭</meaning>
+	</vocab>
+	<vocab>
+		<origin>Fortress Hill</origin>
+		<speech>N.</speech>
+		<meaning>炮台山</meaning>
+	</vocab>
+	<vocab>
+		<origin>Hang Hau</origin>
+		<speech>N.</speech>
+		<meaning>坑口</meaning>
+	</vocab>
+	<vocab>
+		<origin>Heng Fa Chuen</origin>
+		<speech>N.</speech>
+		<meaning>杏花邨</meaning>
+	</vocab>
+	<vocab>
+		<origin>Heng On</origin>
+		<speech>N.</speech>
+		<meaning>恆安</meaning>
+	</vocab>
+	<vocab>
+		<origin>HKU</origin>
+		<speech>N.</speech>
+		<meaning>香港大學</meaning>
+	</vocab>
+	<vocab>
+		<origin>Hong Kong</origin>
+		<speech>N.</speech>
+		<meaning>香港</meaning>
+	</vocab>
+	<vocab>
+		<origin>Hung Hom</origin>
+		<speech>N.</speech>
+		<meaning>紅磡</meaning>
+	</vocab>
+	<vocab>
+		<origin>Jordan</origin>
+		<speech>N.</speech>
+		<meaning>佐敦</meaning>
+	</vocab>
+	<vocab>
+		<origin>Kam Sheung Road</origin>
+		<speech>N.</speech>
+		<meaning>錦上路</meaning>
+	</vocab>
+	<vocab>
+		<origin>Kennedy Town</origin>
+		<speech>N.</speech>
+		<meaning>堅尼地城</meaning>
+	</vocab>
+	<vocab>
+		<origin>Kowloon</origin>
+		<speech>N.</speech>
+		<meaning>九龍</meaning>
+	</vocab>
+	<vocab>
+		<origin>Kowloon Bay</origin>
+		<speech>N.</speech>
+		<meaning>九龍灣</meaning>
+	</vocab>
+	<vocab>
+		<origin>Kowloon Tong</origin>
+		<speech>N.</speech>
+		<meaning>九龍塘</meaning>
+	</vocab>
+	<vocab>
+		<origin>Kwai Fong</origin>
+		<speech>N.</speech>
+		<meaning>葵芳</meaning>
+	</vocab>
+	<vocab>
+		<origin>Kwai Hing</origin>
+		<speech>N.</speech>
+		<meaning>葵興</meaning>
+	</vocab>
+	<vocab>
+		<origin>Kwun Tong</origin>
+		<speech>N.</speech>
+		<meaning>觀塘</meaning>
+	</vocab>
+	<vocab>
+		<origin>Lai Chi Kok</origin>
+		<speech>N.</speech>
+		<meaning>荔枝角</meaning>
+	</vocab>
+	<vocab>
+		<origin>Lai King</origin>
+		<speech>N.</speech>
+		<meaning>荔景</meaning>
+	</vocab>
+	<vocab>
+		<origin>Lam Tin</origin>
+		<speech>N.</speech>
+		<meaning>藍田</meaning>
+	</vocab>
+	<vocab>
+		<origin>Lo Wu</origin>
+		<speech>N.</speech>
+		<meaning>羅湖</meaning>
+	</vocab>
+	<vocab>
+		<origin>LOHAS Park</origin>
+		<speech>N.</speech>
+		<meaning>康城</meaning>
+	</vocab>
+	<vocab>
+		<origin>Lok Fu</origin>
+		<speech>N.</speech>
+		<meaning>樂富</meaning>
+	</vocab>
+	<vocab>
+		<origin>Lok Ma Chau</origin>
+		<speech>N.</speech>
+		<meaning>落馬洲</meaning>
+	</vocab>
+	<vocab>
+		<origin>Long Ping</origin>
+		<speech>N.</speech>
+		<meaning>朗屏</meaning>
+	</vocab>
+	<vocab>
+		<origin>Ma On Shan</origin>
+		<speech>N.</speech>
+		<meaning>馬鞍山</meaning>
+	</vocab>
+	<vocab>
+		<origin>Mei Foo</origin>
+		<speech>N.</speech>
+		<meaning>美孚</meaning>
+	</vocab>
+	<vocab>
+		<origin>Mong Kok</origin>
+		<speech>N.</speech>
+		<meaning>旺角</meaning>
+	</vocab>
+	<vocab>
+		<origin>Mong Kok East</origin>
+		<speech>N.</speech>
+		<meaning>旺角東</meaning>
+	</vocab>
+	<vocab>
+		<origin>Nam Cheong</origin>
+		<speech>N.</speech>
+		<meaning>南昌</meaning>
+	</vocab>
+	<vocab>
+		<origin>Ngau Tau Kok</origin>
+		<speech>N.</speech>
+		<meaning>牛頭角</meaning>
+	</vocab>
+	<vocab>
+		<origin>North Point</origin>
+		<speech>N.</speech>
+		<meaning>北角</meaning>
+	</vocab>
+	<vocab>
+		<origin>Olympic</origin>
+		<speech>N.</speech>
+		<meaning>奧運</meaning>
+	</vocab>
+	<vocab>
+		<origin>Po Lam</origin>
+		<speech>N.</speech>
+		<meaning>寶琳</meaning>
+	</vocab>
+	<vocab>
+		<origin>Prince Edward</origin>
+		<speech>N.</speech>
+		<meaning>太子</meaning>
+	</vocab>
+	<vocab>
+		<origin>Quarry Bay</origin>
+		<speech>N.</speech>
+		<meaning>鰂魚涌</meaning>
+	</vocab>
+	<vocab>
+		<origin>Racecourse</origin>
+		<speech>N.</speech>
+		<meaning>馬場</meaning>
+	</vocab>
+	<vocab>
+		<origin>Sai Wan Ho</origin>
+		<speech>N.</speech>
+		<meaning>西灣河</meaning>
+	</vocab>
+	<vocab>
+		<origin>Sha Tin</origin>
+		<speech>N.</speech>
+		<meaning>沙田</meaning>
+	</vocab>
+	<vocab>
+		<origin>Sha Tin Wai</origin>
+		<speech>N.</speech>
+		<meaning>沙田圍</meaning>
+	</vocab>
+	<vocab>
+		<origin>Sham Shui Po</origin>
+		<speech>N.</speech>
+		<meaning>深水埗</meaning>
+	</vocab>
+	<vocab>
+		<origin>Shau Kei Wan</origin>
+		<speech>N.</speech>
+		<meaning>筲箕灣</meaning>
+	</vocab>
+	<vocab>
+		<origin>Shek Kip Mei</origin>
+		<speech>N.</speech>
+		<meaning>石硤尾</meaning>
+	</vocab>
+	<vocab>
+		<origin>Shek Mun</origin>
+		<speech>N.</speech>
+		<meaning>石門</meaning>
+	</vocab>
+	<vocab>
+		<origin>Sheung Shui</origin>
+		<speech>N.</speech>
+		<meaning>上水</meaning>
+	</vocab>
+	<vocab>
+		<origin>Sheung Wan</origin>
+		<speech>N.</speech>
+		<meaning>上環</meaning>
+	</vocab>
+	<vocab>
+		<origin>Siu Hong</origin>
+		<speech>N.</speech>
+		<meaning>兆康</meaning>
+	</vocab>
+	<vocab>
+		<origin>Sunny Bay</origin>
+		<speech>N.</speech>
+		<meaning>欣澳</meaning>
+	</vocab>
+	<vocab>
+		<origin>Tai Koo</origin>
+		<speech>N.</speech>
+		<meaning>太古</meaning>
+	</vocab>
+	<vocab>
+		<origin>Tai Po Market</origin>
+		<speech>N.</speech>
+		<meaning>大埔墟</meaning>
+	</vocab>
+	<vocab>
+		<origin>Tai Shui Hang</origin>
+		<speech>N.</speech>
+		<meaning>大水坑</meaning>
+	</vocab>
+	<vocab>
+		<origin>Tai Wai</origin>
+		<speech>N.</speech>
+		<meaning>大圍</meaning>
+	</vocab>
+	<vocab>
+		<origin>Tai Wo</origin>
+		<speech>N.</speech>
+		<meaning>太和</meaning>
+	</vocab>
+	<vocab>
+		<origin>Tai Wo Hau</origin>
+		<speech>N.</speech>
+		<meaning>大窩口</meaning>
+	</vocab>
+	<vocab>
+		<origin>Tin Hau</origin>
+		<speech>N.</speech>
+		<meaning>天后</meaning>
+	</vocab>
+	<vocab>
+		<origin>Tin Shui Wai</origin>
+		<speech>N.</speech>
+		<meaning>天水圍</meaning>
+	</vocab>
+	<vocab>
+		<origin>Tiu Keng Leng</origin>
+		<speech>N.</speech>
+		<meaning>調景嶺</meaning>
+	</vocab>
+	<vocab>
+		<origin>Tseung Kwan O</origin>
+		<speech>N.</speech>
+		<meaning>將軍澳</meaning>
+	</vocab>
+	<vocab>
+		<origin>Tsim Sha Tsui</origin>
+		<speech>N.</speech>
+		<meaning>尖沙咀</meaning>
+	</vocab>
+	<vocab>
+		<origin>Tsing Yi</origin>
+		<speech>N.</speech>
+		<meaning>青衣</meaning>
+	</vocab>
+	<vocab>
+		<origin>Tsuen Wan</origin>
+		<speech>N.</speech>
+		<meaning>荃灣</meaning>
+	</vocab>
+	<vocab>
+		<origin>Tsuen Wan West</origin>
+		<speech>N.</speech>
+		<meaning>荃灣西</meaning>
+	</vocab>
+	<vocab>
+		<origin>Tuen Mun</origin>
+		<speech>N.</speech>
+		<meaning>屯門</meaning>
+	</vocab>
+	<vocab>
+		<origin>Tung Chung</origin>
+		<speech>N.</speech>
+		<meaning>東涌</meaning>
+	</vocab>
+	<vocab>
+		<origin>University</origin>
+		<speech>N.</speech>
+		<meaning>大學</meaning>
+	</vocab>
+	<vocab>
+		<origin>Wan Chai</origin>
+		<speech>N.</speech>
+		<meaning>灣仔</meaning>
+	</vocab>
+	<vocab>
+		<origin>Wong Tai Sin</origin>
+		<speech>N.</speech>
+		<meaning>黃大仙</meaning>
+	</vocab>
+	<vocab>
+		<origin>Wu Kai Sha</origin>
+		<speech>N.</speech>
+		<meaning>烏溪沙</meaning>
+	</vocab>
+	<vocab>
+		<origin>Yau Ma Tei</origin>
+		<speech>N.</speech>
+		<meaning>油麻地</meaning>
+	</vocab>
+	<vocab>
+		<origin>Yau Tong</origin>
+		<speech>N.</speech>
+		<meaning>油塘</meaning>
+	</vocab>
+	<vocab>
+		<origin>Yuen Long</origin>
+		<speech>N.</speech>
+		<meaning>元朗</meaning>
+	</vocab>
+</vocabs>

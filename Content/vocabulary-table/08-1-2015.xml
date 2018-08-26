@@ -1,0 +1,198 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<vocabs xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<vocab>
+		<origin>combat</origin>
+		<speech>N.</speech>
+		<meaning>（尤指戰爭中的）戰鬥，搏鬥</meaning>
+	</vocab>
+	<vocab>
+		<origin>combat</origin>
+		<speech>V.T.</speech>
+		<meaning>制止</meaning>
+	</vocab>
+	<vocab>
+		<origin>congestion</origin>
+		<speech>Adj.</speech>
+		<meaning>堵塞的；擁擠的；擠滿的</meaning>
+	</vocab>
+	<vocab>
+		<origin>impound</origin>
+		<speech>V. T.</speech>
+		<meaning>（警方或掌權者）扣押，沒收</meaning>
+	</vocab>
+	<vocab>
+		<origin>auction</origin>
+		<speech>N.</speech>
+		<meaning>拍賣</meaning>
+	</vocab>
+	<vocab>
+		<origin>scrap</origin>
+		<speech>V. T.</speech>
+		<meaning>取消計劃；銷毀；</meaning>
+	</vocab>
+	<vocab>
+		<origin>petition</origin>
+		<speech>N.</speech>
+		<meaning>請願書</meaning>
+	</vocab>
+	<vocab>
+		<origin>petition</origin>
+		<speech>V. B.</speech>
+		<meaning>（向法院）遞交申訴書，申請</meaning>
+	</vocab>
+	<vocab>
+		<origin>novelty</origin>
+		<speech>N.</speech>
+		<meaning>新穎，新奇；新奇的事物</meaning>
+	</vocab>
+	<vocab>
+		<origin>novelty</origin>
+		<speech>N. As a present</speech>
+		<meaning>（禮物贈送）新奇廉價的物品</meaning>
+	</vocab>
+	<vocab>
+		<origin>bowling</origin>
+		<speech>N.</speech>
+		<meaning>（板球）投球</meaning>
+	</vocab>
+	<vocab>
+		<origin>odour</origin>
+		<speech>Adj.</speech>
+		<meaning>（常指難聞的）氣味；臭味</meaning>
+	</vocab>
+	<vocab>
+		<origin>landfill</origin>
+		<speech>N.</speech>
+		<meaning>垃圾堆填區</meaning>
+	</vocab>
+	<vocab>
+		<origin>sweaty</origin>
+		<speech>Adj.</speech>
+		<meaning>正在流汗的，有汗味的</meaning>
+	</vocab>
+	<vocab>
+		<origin>carcinogen</origin>
+		<speech>N.</speech>
+		<meaning>致癌物質</meaning>
+	</vocab>
+	<vocab>
+		<origin>levy</origin>
+		<speech>N.</speech>
+		<meaning>徵收額；稅款</meaning>
+	</vocab>
+	<vocab>
+		<origin>substantially</origin>
+		<speech>N.</speech>
+		<meaning>在很大程度上</meaning>
+	</vocab>
+	<vocab>
+		<origin>Scout's honour</origin>
+		<speech>N. Mainly humorous</speech>
+		<meaning>保證</meaning>
+	</vocab>
+	<vocab>
+		<origin>vision</origin>
+		<speech>N.</speech>
+		<meaning>幻像；幻覺；視力</meaning>
+	</vocab>
+	<vocab>
+		<origin>vision</origin>
+		<speech>N. Future</speech>
+		<meaning>遠見</meaning>
+	</vocab>
+	<vocab>
+		<origin>emerge</origin>
+		<speech>V. I.</speech>
+		<meaning>出現；（從困境中）擺脫出來</meaning>
+	</vocab>
+	<vocab>
+		<origin>embrace</origin>
+		<speech>V. T.</speech>
+		<meaning>樂意採納；擁抱；包含</meaning>
+	</vocab>
+	<vocab>
+		<origin>mindset</origin>
+		<speech>N.</speech>
+		<meaning>思維方式</meaning>
+	</vocab>
+	<vocab>
+		<origin>bailiff</origin>
+		<speech>N.</speech>
+		<meaning>（查封財產的）執行官</meaning>
+	</vocab>
+	<vocab>
+		<origin>allegation</origin>
+		<speech>N.</speech>
+		<meaning>（未經證實的）指責，指控</meaning>
+	</vocab>
+	<vocab>
+		<origin>injunction</origin>
+		<speech>N.</speech>
+		<meaning>法庭禁令</meaning>
+	</vocab>
+	<vocab>
+		<origin>injection</origin>
+		<speech>N.</speech>
+		<meaning>注射</meaning>
+	</vocab>
+	<vocab>
+		<origin>boundary</origin>
+		<speech>N.</speech>
+		<meaning>邊界；界限</meaning>
+	</vocab>
+	<vocab>
+		<origin>openly defy</origin>
+		<speech>Phr.</speech>
+		<meaning>公開地違抗</meaning>
+	</vocab>
+	<vocab>
+		<origin>defy belief / description / explanation</origin>
+		<speech>Phr.</speech>
+		<meaning>（過於極端或奇特）讓人無法相信／描述／解釋</meaning>
+	</vocab>
+	<vocab>
+		<origin>defy sb to do sth</origin>
+		<speech>Phr.</speech>
+		<meaning>（向某人挑戰某人）做出來看看</meaning>
+	</vocab>
+	<vocab>
+		<origin>barricade</origin>
+		<speech>N.</speech>
+		<meaning>（尤指迅速設置的）一列障礙物，路障</meaning>
+	</vocab>
+	<vocab>
+		<origin>language barrier</origin>
+		<speech>N.</speech>
+		<meaning>語言隔閡</meaning>
+	</vocab>
+	<vocab>
+		<origin>barrier</origin>
+		<speech>N.</speech>
+		<meaning>隔欄；屏障；天然的障礙</meaning>
+	</vocab>
+	<vocab>
+		<origin>frugal</origin>
+		<speech>Adj.</speech>
+		<meaning>節儉的</meaning>
+	</vocab>
+	<vocab>
+		<origin>great recession</origin>
+		<speech>N.</speech>
+		<meaning>經濟大衰退</meaning>
+	</vocab>
+	<vocab>
+		<origin>crafty devils</origin>
+		<speech>N.</speech>
+		<meaning>狡猾的魔鬼</meaning>
+	</vocab>
+	<vocab>
+		<origin>food pantry</origin>
+		<speech>N.</speech>
+		<meaning>食物銀行</meaning>
+	</vocab>
+	<vocab>
+		<origin>decent job</origin>
+		<speech>N.</speech>
+		<meaning>體面的工作</meaning>
+	</vocab>
+</vocabs>

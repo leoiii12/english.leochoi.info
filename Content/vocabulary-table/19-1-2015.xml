@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<vocabs xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<vocab>
+		<origin>Delirious</origin>
+		<speech>Adj.</speech>
+		<meaning>神志不清的</meaning>
+		<sentence>She had a high temperature and was delirious.</sentence>
+	</vocab>
+	<vocab>
+		<origin>Delirious</origin>
+		<speech>Adj.</speech>
+		<meaning>狂喜的</meaning>
+		<sentence>The Greek football team arrived home to a delirious reception in Athens.</sentence>
+	</vocab>
+	<vocab>
+		<origin>Assemble</origin>
+		<speech>V.</speech>
+		<meaning>集合</meaning>
+		<sentence>We assembled in the meeting room after lunch.</sentence>
+	</vocab>
+	<vocab>
+		<origin>Assemble</origin>
+		<speech>V.</speech>
+		<meaning>組裝</meaning>
+		<sentence>My new machine is being assembled and my old one dismantled</sentence>
+	</vocab>
+	<vocab>
+		<origin>Autonomous</origin>
+		<speech>Adj.</speech>
+		<meaning>有自主權的</meaning>
+		<sentence>The company's divisions, which have been largely autonomous up to now, will be centralized under the newly appointed CEO.</sentence>
+	</vocab>
+	<vocab>
+		<origin>Match your needs</origin>
+		<speech>V.</speech>
+		<meaning>滿足您的需求</meaning>
+		<sentence>Imagine a world in which internet enabled devices in your life can communicate with your car - allowing it to tailor your journey to match your needs.</sentence>
+	</vocab>
+	<vocab>
+		<origin>Priority</origin>
+		<speech>N.</speech>
+		<meaning>優先考慮的事</meaning>
+		<sentence>The management did not seem to consider office safety to be a priority.</sentence>
+	</vocab>
+	<vocab>
+		<origin>Commission</origin>
+		<speech>V.</speech>
+		<meaning>（正式地）委託</meaning>
+		<sentence>Bee'ah has commissioned Zaha Hadid Architects to design its new headquarters, with a brief asking for one of the most environmentally friendly buildings yet constructed.</sentence>
+	</vocab>
+	<vocab>
+		<origin>Modern metropolis</origin>
+		<speech>N.</speech>
+		<meaning>現代的大都會</meaning>
+		<sentence>Hong Kong is a very modern metropolis but that doesn't mean there aren't areas that can be developed and improved.</sentence>
+	</vocab>
+</vocabs>

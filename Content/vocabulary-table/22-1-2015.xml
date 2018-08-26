@@ -1,0 +1,359 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<vocabs xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<vocab>
+		<origin>To complain, criticize</origin>
+		<speech>Purpose</speech>
+		<meaning>投訴</meaning>
+	</vocab>
+	<vocab>
+		<origin>To draw attention</origin>
+		<speech>Purpose</speech>
+		<meaning>引起注意</meaning>
+	</vocab>
+	<vocab>
+		<origin>To advise, suggest, recommend</origin>
+		<speech>Purpose</speech>
+		<meaning>提供意見</meaning>
+	</vocab>
+	<vocab>
+		<origin>To enquire</origin>
+		<speech>Purpose</speech>
+		<meaning>詢問</meaning>
+	</vocab>
+	<vocab>
+		<origin>To entertain, encourage</origin>
+		<speech>Purpose</speech>
+		<meaning>使有興趣</meaning>
+	</vocab>
+	<vocab>
+		<origin>To persuade, urge</origin>
+		<speech>Purpose</speech>
+		<meaning>勸服</meaning>
+	</vocab>
+	<vocab>
+		<origin>To protest, react against</origin>
+		<speech>Purpose</speech>
+		<meaning>抗議</meaning>
+	</vocab>
+	<vocab>
+		<origin>To response, reply</origin>
+		<speech>Purpose</speech>
+		<meaning>回答</meaning>
+	</vocab>
+	<vocab>
+		<origin>To inform, notify</origin>
+		<speech>Purpose</speech>
+		<meaning>通知</meaning>
+	</vocab>
+	<vocab>
+		<origin>To report, describe, summary</origin>
+		<speech>Purpose</speech>
+		<meaning>報告</meaning>
+	</vocab>
+	<vocab>
+		<origin>Instruct</origin>
+		<speech>V.</speech>
+		<meaning>（尤指正式地）指示，命令</meaning>
+		<sentence>The police have been instructed to patrolthe building and surrounding area.</sentence>
+	</vocab>
+	<vocab>
+		<origin>Notify</origin>
+		<speech>V.</speech>
+		<meaning>（正式）通知</meaning>
+		<sentence>The school is required to notify parents if their children fail to come to school.</sentence>
+	</vocab>
+	<vocab>
+		<origin>Approach</origin>
+		<speech>V.</speech>
+		<meaning>（思考問題的）方式</meaning>
+		<sentence>Since our research so far has not produced any answers to this problem, we need to adopt a different approach to it.</sentence>
+	</vocab>
+	<vocab>
+		<origin>Incarnation</origin>
+		<speech>N.</speech>
+		<meaning>（特定特徵或行為類型的）化身</meaning>
+		<sentence>She's the incarnation of everything I hate about politics.</sentence>
+	</vocab>
+	<vocab>
+		<origin>Tension</origin>
+		<speech>N.</speech>
+		<meaning>（精神上的）緊張</meaning>
+		<sentence>You could feel the tension in the room as we waited for our exam results.</sentence>
+	</vocab>
+	<vocab>
+		<origin>Hostage</origin>
+		<speech>N.</speech>
+		<meaning>人質</meaning>
+		<sentence>The terrorists have seized 20 hostages and are threatening to kill one a day unless their demands are met.</sentence>
+	</vocab>
+	<vocab>
+		<origin>Determine</origin>
+		<speech>V.</speech>
+		<meaning>下決心</meaning>
+		<sentence>On leaving jail, Joe determined to reform.</sentence>
+	</vocab>
+	<vocab>
+		<origin>Seize upon</origin>
+		<speech>Phr.</speech>
+		<meaning>大加利用</meaning>
+		<sentence>The story was seized upon by the tabloid press, who printed it under huge headlines.</sentence>
+	</vocab>
+	<vocab>
+		<origin>Public inspection</origin>
+		<speech>N.</speech>
+		<meaning>公眾查閱</meaning>
+		<sentence>The following documents are on file for public inspection and will publish in the federal register on the date listed.</sentence>
+	</vocab>
+	<vocab>
+		<origin>Build up</origin>
+		<speech>V.</speech>
+		<meaning>加強</meaning>
+		<sentence>A regular sleeping pattern builds up immunity and resistance to bacteria.</sentence>
+	</vocab>
+	<vocab>
+		<origin>Dilemma</origin>
+		<speech>N.</speech>
+		<meaning>左右為難</meaning>
+		<sentence>Mary found herself on the horns of a dilemma.</sentence>
+	</vocab>
+	<vocab>
+		<origin>Swathe</origin>
+		<speech>N.</speech>
+		<meaning>布條</meaning>
+		<sentence>His head was wrapped in swathes of bandages.</sentence>
+	</vocab>
+	<vocab>
+		<origin>Vital</origin>
+		<speech>Phr.</speech>
+		<meaning>必不可少的</meaning>
+		<sentence>The kidney plays a vital role/part in the removal of waste products from the blood.</sentence>
+	</vocab>
+	<vocab>
+		<origin>Destined</origin>
+		<speech>Adj.</speech>
+		<meaning>用於（特定目的）的</meaning>
+		<sentence>The money was destined for the relief of poverty, but was diverted by corrupt officials.</sentence>
+	</vocab>
+	<vocab>
+		<origin>Undivided attention</origin>
+		<speech>Phr.</speech>
+		<meaning>全部注意力</meaning>
+		<sentence>I will give you my undivided attention.</sentence>
+	</vocab>
+	<vocab>
+		<origin>Stardom</origin>
+		<speech>N.</speech>
+		<meaning>名聲</meaning>
+		<sentence>From childhood, Britney Spears seemed destined for stardom.</sentence>
+	</vocab>
+	<vocab>
+		<origin>Eligible</origin>
+		<speech>Adj.</speech>
+		<meaning>有資格的</meaning>
+		<sentence>Only people over 18 are eligible to vote.</sentence>
+	</vocab>
+	<vocab>
+		<origin>Softly-softly approach</origin>
+		<speech>Phr.</speech>
+		<meaning>冷靜而理智的方法</meaning>
+		<sentence>The recent unrest in the capital suggests that the government's softly, softly approach to reform is not working.</sentence>
+	</vocab>
+	<vocab>
+		<origin>Seize</origin>
+		<speech>V.</speech>
+		<meaning>抓住</meaning>
+		<sentence>I seized his arm and made him turn to look at me.</sentence>
+	</vocab>
+	<vocab>
+		<origin>Be determined</origin>
+		<speech>V.</speech>
+		<meaning>決定；影響</meaning>
+		<sentence>The number of staff we can take on will be determined by how much money we're allowed to spend.</sentence>
+	</vocab>
+	<vocab>
+		<origin>Reflexology</origin>
+		<speech>N.</speech>
+		<meaning>足部反射療法</meaning>
+		<sentence>Reflexology is an alternative medicine involving application of pressure to the feet and hands with specific thumb, finger, and hand techniques without the use of oil or lotion.</sentence>
+	</vocab>
+	<vocab>
+		<origin>Disperse</origin>
+		<speech>V.</speech>
+		<meaning>使散開</meaning>
+		<sentence>When the rain came down the crowds started to disperse.</sentence>
+	</vocab>
+	<vocab>
+		<origin>In accordance with</origin>
+		<speech>Phr.</speech>
+		<meaning>依照規則／法律／意願等</meaning>
+		<sentence>In accordance with her wishes, she was buried in France.</sentence>
+	</vocab>
+	<vocab>
+		<origin>Stimulus</origin>
+		<speech>N.</speech>
+		<meaning>刺激物；促進因素</meaning>
+		<sentence>The book will provide a stimulus to research in this very important area.</sentence>
+	</vocab>
+	<vocab>
+		<origin>Acknowledge</origin>
+		<speech>V.</speech>
+		<meaning>承認</meaning>
+		<sentence>She is usually acknowledged to be one of our best artists.</sentence>
+	</vocab>
+	<vocab>
+		<origin>Aromatherapy</origin>
+		<speech>N.</speech>
+		<meaning>芳香療法</meaning>
+		<sentence>Aromatherapy uses plant materials and aromatic plant oils, including essential oils, and other aromatic compounds for the purpose of altering one's mood, cognitive, psychological or physical wellbeing.</sentence>
+	</vocab>
+	<vocab>
+		<origin>Retain</origin>
+		<speech>V.</speech>
+		<meaning>保留</meaning>
+		<sentence>She has lost her battle to retain control of the company.</sentence>
+	</vocab>
+	<vocab>
+		<origin>Regime</origin>
+		<speech>N.</speech>
+		<meaning>政權</meaning>
+		<sentence>The old corrupt, totalitarian regime was overthrown.</sentence>
+	</vocab>
+	<vocab>
+		<origin>Seize up</origin>
+		<speech>Phr.</speech>
+		<meaning>故障</meaning>
+		<sentence>The washing machine totally seized up on Thursday.</sentence>
+	</vocab>
+	<vocab>
+		<origin>Determine</origin>
+		<speech>V.</speech>
+		<meaning>查明</meaning>
+		<sentence>The student should determine the rationale for failing the exam.</sentence>
+	</vocab>
+	<vocab>
+		<origin>Durable</origin>
+		<speech>Adj.</speech>
+		<meaning>耐久的</meaning>
+		<sentence>The machines have to be made of durable materials.</sentence>
+	</vocab>
+	<vocab>
+		<origin>Meditation</origin>
+		<speech>V.</speech>
+		<meaning>冥想</meaning>
+		<sentence>She practises meditation.</sentence>
+	</vocab>
+	<vocab>
+		<origin>Refugee</origin>
+		<speech>N.</speech>
+		<meaning>逃亡者</meaning>
+		<sentence>Thousands of refugees fled across the border.</sentence>
+	</vocab>
+	<vocab>
+		<origin>Seize up</origin>
+		<speech>Phr.</speech>
+		<meaning>動彈不得</meaning>
+		<sentence>The traffic had seized up for miles because of the roadworks.</sentence>
+	</vocab>
+	<vocab>
+		<origin>Down-to-earth</origin>
+		<speech>Adj.</speech>
+		<meaning>務實的</meaning>
+		<sentence>She's a down-to-earth sort of woman with no pretensions.</sentence>
+	</vocab>
+	<vocab>
+		<origin>Tough</origin>
+		<speech>Adj.</speech>
+		<meaning>堅固的；堅強的</meaning>
+		<sentence>You have to be tough to be successful in politics.</sentence>
+	</vocab>
+	<vocab>
+		<origin>Practise</origin>
+		<speech>V.</speech>
+		<meaning>從事（專業性強的重要職業）</meaning>
+		<sentence>How long have you been practising as a dentist?</sentence>
+	</vocab>
+	<vocab>
+		<origin>Approach</origin>
+		<speech>V.</speech>
+		<meaning>接近</meaning>
+		<sentence>If you look out of the window on the left of the bus, you'll see that we're now approaching the Tower of London.</sentence>
+	</vocab>
+	<vocab>
+		<origin>Approach</origin>
+		<speech>V.</speech>
+		<meaning>接洽</meaning>
+		<sentence>We've just approached the bank for/about a loan.</sentence>
+	</vocab>
+	<vocab>
+		<origin>Practise</origin>
+		<speech>V.</speech>
+		<meaning>習慣做</meaning>
+		<sentence>The company denies that it has practised discrimination against any of its employees.</sentence>
+	</vocab>
+	<vocab>
+		<origin>Approach</origin>
+		<speech>V.</speech>
+		<meaning>處理</meaning>
+		<sentence>I'm not sure how to approach the problem.</sentence>
+	</vocab>
+	<vocab>
+		<origin>Brutal</origin>
+		<speech>Adj.</speech>
+		<meaning>野蠻的</meaning>
+		<sentence>He had presided over a brutal regime in which thousands of people had 'disappeared'.</sentence>
+	</vocab>
+	<vocab>
+		<origin>Registration particulars</origin>
+		<speech>Phr.</speech>
+		<meaning>登記資料</meaning>
+		<sentence>There's a form for you to note down all your registration particulars.</sentence>
+	</vocab>
+	<vocab>
+		<origin>Vow</origin>
+		<speech>V.</speech>
+		<meaning>發誓</meaning>
+		<sentence>After the awful meals we had last Christmas, I vowed to do more of the cooking myself.</sentence>
+	</vocab>
+	<vocab>
+		<origin>A mirror of something</origin>
+		<speech>N.</speech>
+		<meaning>寫照</meaning>
+		<sentence>The movie is a mirror of daily life in wartime Britain.</sentence>
+	</vocab>
+	<vocab>
+		<origin>Neighbouring</origin>
+		<speech>Adj.</speech>
+		<meaning>鄰近的</meaning>
+		<sentence>She married a man from the neighbouring village.</sentence>
+	</vocab>
+	<vocab>
+		<origin>Heritage</origin>
+		<speech>N.</speech>
+		<meaning>歷史遺產</meaning>
+		<sentence>These monuments are a vital part of the cultural heritage of South America.</sentence>
+	</vocab>
+	<vocab>
+		<origin>Rational</origin>
+		<speech>Adj.</speech>
+		<meaning>頭腦清醒的</meaning>
+		<sentence>He was too upset to be rational.</sentence>
+	</vocab>
+	<vocab>
+		<origin>Address</origin>
+		<speech>V.</speech>
+		<meaning>應付</meaning>
+		<sentence>The issue of funding has yet to be addressed.</sentence>
+	</vocab>
+	<vocab>
+		<origin>Inspect</origin>
+		<speech>V.</speech>
+		<meaning>檢查</meaning>
+		<sentence>After the crash both drivers got out and inspected their cars for damage.</sentence>
+	</vocab>
+	<vocab>
+		<origin>Denounce</origin>
+		<speech>V.</speech>
+		<meaning>檢舉</meaning>
+		<sentence>His former colleagues have denounced him as a spy.</sentence>
+	</vocab>
+</vocabs>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<vocabs xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<vocab>
+		<origin>combat</origin>
+		<speech>N.</speech>
+		<meaning>（尤指戰爭中的）戰鬥，搏鬥</meaning>
+	</vocab>
+	<vocab>
+		<origin>combat</origin>
+		<speech>V.T.</speech>
+		<meaning>制止</meaning>
+	</vocab>
+	<vocab>
+		<origin>congestion</origin>
+		<speech>Adj.</speech>
+		<meaning>堵塞的；擁擠的；擠滿的</meaning>
+	</vocab>
+	<vocab>
+		<origin>impounded</origin>
+		<speech>V. T.</speech>
+		<meaning>（警方或掌權者）扣押，沒收</meaning>
+	</vocab>
+	<vocab>
+		<origin>auction</origin>
+		<speech>N.</speech>
+		<meaning>拍賣</meaning>
+	</vocab>
+	<vocab>
+		<origin>scrap</origin>
+		<speech>V. T.</speech>
+		<meaning>取消計劃；銷毀；</meaning>
+	</vocab>
+</vocabs>

@@ -1,0 +1,243 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<vocabs xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<vocab>
+		<origin>Admirable</origin>
+		<speech>Adj.</speech>
+		<meaning>Arousing or deserving respect and approval</meaning>
+	</vocab>
+	<vocab>
+		<origin>Adorable</origin>
+		<speech>Adj.</speech>
+		<meaning>Inspiring great affection or delight</meaning>
+	</vocab>
+	<vocab>
+		<origin>Affable</origin>
+		<speech>Adj.</speech>
+		<meaning>Friendly, good-natured, or easy to talk to</meaning>
+	</vocab>
+	<vocab>
+		<origin>Affectionate</origin>
+		<speech>Adj.</speech>
+		<meaning>Readily feeling or showing fondness or tenderness</meaning>
+	</vocab>
+	<vocab>
+		<origin>Affirmative</origin>
+		<speech>Adj.</speech>
+		<meaning>Agreeing with or consenting to a statement or request</meaning>
+	</vocab>
+	<vocab>
+		<origin>Altruistic</origin>
+		<speech>Adj.</speech>
+		<meaning>Showing a disinterested and selfless concern for the well-being of others; unselfish</meaning>
+	</vocab>
+	<vocab>
+		<origin>Amazing</origin>
+		<speech>Adj.</speech>
+		<meaning>Causing great surprise or wonder; astonishing</meaning>
+	</vocab>
+	<vocab>
+		<origin>Ambitious</origin>
+		<speech>Adj.</speech>
+		<meaning>Having or showing a strong desire and determination to succeed</meaning>
+	</vocab>
+	<vocab>
+		<origin>Amiable</origin>
+		<speech>Adj.</speech>
+		<meaning>Having or displaying a friendly and pleasant manner</meaning>
+	</vocab>
+	<vocab>
+		<origin>Appealing</origin>
+		<speech>Adj.</speech>
+		<meaning>Attractive or interesting</meaning>
+	</vocab>
+	<vocab>
+		<origin>Appreciative</origin>
+		<speech>Adj.</speech>
+		<meaning>Feeling or showing gratitude or pleasure</meaning>
+	</vocab>
+	<vocab>
+		<origin>Appropriate</origin>
+		<speech>Adj.</speech>
+		<meaning>Suitable or proper in the circumstances</meaning>
+	</vocab>
+	<vocab>
+		<origin>Approving</origin>
+		<speech>Adj.</speech>
+		<meaning>Showing or feeling approval of someone or something</meaning>
+	</vocab>
+	<vocab>
+		<origin>Artistic</origin>
+		<speech>Adj.</speech>
+		<meaning>Having or revealing natural creative skill</meaning>
+	</vocab>
+	<vocab>
+		<origin>Attractive</origin>
+		<speech>Adj.</speech>
+		<meaning>Pleasing or appealing to the senses</meaning>
+	</vocab>
+	<vocab>
+		<origin>Aspiring</origin>
+		<speech>Adj.</speech>
+		<meaning>Directing one's hopes or ambitions towards becoming a specified type of person</meaning>
+	</vocab>
+	<vocab>
+		<origin>Assertive</origin>
+		<speech>Adj.</speech>
+		<meaning>Having or showing a confident and forceful personality</meaning>
+	</vocab>
+	<vocab>
+		<origin>Authentic</origin>
+		<speech>Adj.</speech>
+		<meaning>Of undisputed origin and not a copy; genuine</meaning>
+	</vocab>
+	<vocab>
+		<origin>Authoritative</origin>
+		<speech>Adj.</speech>
+		<meaning>Able to be trusted as being accurate or true; reliable</meaning>
+	</vocab>
+	<vocab>
+		<origin>Daunting</origin>
+		<speech>Adj.</speech>
+		<meaning>Seeming difficult to deal with in prospect; intimidating</meaning>
+	</vocab>
+	<vocab>
+		<origin>Awesome</origin>
+		<speech>Adj.</speech>
+		<meaning>Extremely impressive or daunting; inspiring awe</meaning>
+	</vocab>
+	<vocab>
+		<origin>Balanced</origin>
+		<speech>Adj.</speech>
+		<meaning>Keeping or showing a balance; in good proportions</meaning>
+	</vocab>
+	<vocab>
+		<origin>Believable</origin>
+		<speech>Adj.</speech>
+		<meaning>Able to be believed; credible</meaning>
+	</vocab>
+	<vocab>
+		<origin>Beneficent</origin>
+		<speech>Adj.</speech>
+		<meaning>(Of a person) generous or doing good</meaning>
+	</vocab>
+	<vocab>
+		<origin>Benevolent</origin>
+		<speech>Adj.</speech>
+		<meaning>Well meaning and kindly</meaning>
+	</vocab>
+	<vocab>
+		<origin>Benign</origin>
+		<speech>Adj.</speech>
+		<meaning>Gentle and kind</meaning>
+	</vocab>
+	<vocab>
+		<origin>Bewitching</origin>
+		<speech>Adj.</speech>
+		<meaning>(Of a person) Enchant and delight</meaning>
+	</vocab>
+	<vocab>
+		<origin>Blissful</origin>
+		<speech>Adj.</speech>
+		<meaning>Extremely happy; full of joy</meaning>
+	</vocab>
+	<vocab>
+		<origin>Bold</origin>
+		<speech>Adj.</speech>
+		<meaning>(Of a person, action, or idea) showing a willingness to take risks; confident and courageous</meaning>
+	</vocab>
+	<vocab>
+		<origin>Brilliant</origin>
+		<speech>Adj.</speech>
+		<meaning>Exceptionally clever or talented; (Of light or colour) very bright; </meaning>
+	</vocab>
+	<vocab>
+		<origin>Broad-minded</origin>
+		<speech>Adj.</speech>
+		<meaning>Tolerant or liberal in one's views and reactions; not easily offended</meaning>
+	</vocab>
+	<vocab>
+		<origin>Captivating</origin>
+		<speech>Adj.</speech>
+		<meaning>Capable of attracting and holding interest; charming</meaning>
+	</vocab>
+	<vocab>
+		<origin>Caring</origin>
+		<speech>Adj.</speech>
+		<meaning>Displaying kindness and concern for others</meaning>
+	</vocab>
+	<vocab>
+		<origin>Charismatic</origin>
+		<speech>Adj.</speech>
+		<meaning>Exercising a compelling charm which inspires devotion in others</meaning>
+	</vocab>
+	<vocab>
+		<origin>Charitable</origin>
+		<speech>Adj.</speech>
+		<meaning>Relating to the assistance of those in need</meaning>
+	</vocab>
+	<vocab>
+		<origin>Cheerful</origin>
+		<speech>Adj.</speech>
+		<meaning>Noticeably happy and optimistic</meaning>
+	</vocab>
+	<vocab>
+		<origin>Clear-headed</origin>
+		<speech>Adj.</speech>
+		<meaning>Alert and thinking logically and coherently</meaning>
+	</vocab>
+	<vocab>
+		<origin>Coherent</origin>
+		<speech>Adj.</speech>
+		<meaning>(Of an argument, theory, or policy) logical and consistent; (Of a person) able to speak clearly and logically</meaning>
+	</vocab>
+	<vocab>
+		<origin>Compassionate</origin>
+		<speech>Adj.</speech>
+		<meaning>Feeling or showing sympathy and concern for others</meaning>
+	</vocab>
+	<vocab>
+		<origin>Competent</origin>
+		<speech>Adj.</speech>
+		<meaning>Having the necessary ability, knowledge, or skill to do something successfully</meaning>
+	</vocab>
+	<vocab>
+		<origin>Compelling</origin>
+		<speech>Adj.</speech>
+		<meaning>Evoking interest, attention, or admiration in a powerfully irresistible way</meaning>
+	</vocab>
+	<vocab>
+		<origin>Concise</origin>
+		<speech>Adj.</speech>
+		<meaning>Giving a lot of information clearly and in a few words; brief but comprehensive</meaning>
+	</vocab>
+	<vocab>
+		<origin>Confident</origin>
+		<speech>Adj.</speech>
+		<meaning>Feeling or showing confidence in oneself or one's abilities or qualities</meaning>
+	</vocab>
+	<vocab>
+		<origin>Congenial</origin>
+		<speech>Adj.</speech>
+		<meaning>(Of a person) pleasing or liked on account of having qualities or interests that are similar to one's own; (Of a thing) pleasant or agreeable because suited to one’s taste or inclination</meaning>
+	</vocab>
+	<vocab>
+		<origin>Considerate</origin>
+		<speech>Adj.</speech>
+		<meaning>Careful not to inconvenience or harm others</meaning>
+	</vocab>
+	<vocab>
+		<origin>Convincing</origin>
+		<speech>Adj.</speech>
+		<meaning>Capable of causing someone to believe that something is true or real</meaning>
+	</vocab>
+	<vocab>
+		<origin>Cordial</origin>
+		<speech>Adj.</speech>
+		<meaning>Warm and friendly</meaning>
+	</vocab>
+	<vocab>
+		<origin>Courageous</origin>
+		<speech>Adj.</speech>
+		<meaning>Not deterred by danger or pain; brave</meaning>
+	</vocab>
+</vocabs>

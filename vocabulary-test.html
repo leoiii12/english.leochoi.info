@@ -1,0 +1,200 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
+    <title>English Study</title>
+    <link rel="shortcut icon" href="favicon.ico" />
+    <link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/normalize/3.0.2/normalize.min.css">
+    <link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/bootswatch/3.3.1/paper/bootstrap.min.css">
+    <link rel="stylesheet" href="Content/pages.css">
+</head>
+<body>
+    <div class="navbar navbar-default navbar-fixed-top" role="navigation">
+        <div class="container">
+            <div class="navbar-header">
+                <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
+                    <span class="sr-only">Toggle navigation</span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                </button>
+                <a class="navbar-brand" href="index.html">English Study</a>
+            </div>
+            <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+                <ul class="nav navbar-nav">
+                    <li><a href="index.html">Home page</a></li>
+                    <li><a href="grammer.html">Grammer</a></li>
+                    <li><a href="songs.html">Songs</a></li>
+                    <li><a href="self-introduction.html">Self Introduction</a></li>
+                    <li><a href="books-introduction.html">Books</a></li>
+                    <li class="dropdown active">
+                        <a href="#" class="dropdown-toggle" data-toggle="dropdown">Vocabulary <span class="caret"></span></a>
+                        <ul class="dropdown-menu" role="menu">
+                            <li><a href="vocabulary-revision.html">Revision</a></li>
+                            <li><a href="vocabulary-test.html">Test</a></li>
+                            <li><a href="vocabulary-quick.html">Quick</a></li>
+                        </ul>
+                    </li>
+                </ul>
+            </div>
+        </div>
+    </div>
+    <div class="container">
+        <div class="row">
+            <div class="col-md-12">
+                <h1>Vocabulary - Test</h1>
+                <select class="form-control" id="vocab-table">
+                    <option class="bases" value="none">Please select a vocabulary table</option>
+                    <option class="bases" value="full">All the tables</option>
+                    <option value="26-1-2015">26-1-2015</option>
+                    <option value="22-1-2015">22-1-2015</option>
+                    <option value="21-1-2015 - Hong Kong Locations">21-1-2015 - Hong Kong Locations</option>
+                    <option value="20-1-2015">20-1-2015</option>
+                    <option value="19-1-2015">19-1-2015</option>
+                    <option value="18-1-2015">18-1-2015</option>
+                    <option value="15-1-2015 - Fruits">15-1-2015 - Fruit</option>
+                    <option value="15-1-2015">15-1-2015</option>
+                    <option value="08-1-2015 - Verbs">8-1-2015 - Verbs</option>
+                    <option value="08-1-2015">8-1-2015</option>
+                    <option value="07-1-2015">7-1-2015</option>
+                    <option value="06-1-2015">6-1-2015</option>
+                    <option value="05-1-2015 - Countries">5-1-2015 - Country Name</option>
+                </select>
+                <div class="text-center">
+                    <h3 id="question" class="col-md-12"></h3>
+                    <h4 id="question-sentence" class="col-md-12"></h4>
+                    <div id="answer">
+                        <p class="col-md-4 col-xs-6 answers-test"></p>
+                        <p class="col-md-4 col-xs-6 answers-test"></p>
+                        <p class="col-md-4 col-xs-6 answers-test"></p>
+                        <p class="col-md-4 col-xs-6 answers-test"></p>
+                        <p class="col-md-4 col-xs-6 answers-test"></p>
+                        <p class="col-md-4 col-xs-6 answers-test"></p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="container">
+        <div class="row">
+            <hr />
+            <div class="col-md-6">
+                <p><b>LEO CHOI</b></p>
+                <p>EMAIL - CHOIMANKIN@GMAIL.COM</p>
+                <p>FACEBOOK - <a href="https://www.facebook.com/choi.gain.gain">CHOI GAIN</a></p>
+            </div>
+            <div class="col-md-6 image-vertical-align-container">
+                <img src="Content/html5.png" alt="HTML 5" class="image-vertical-align" />
+            </div>
+            <div class="col-md-12 text-center">
+                <h6>The pages have been verified carefully but there would be some mistakes. </h6>
+                <h6>Sorry for the mistakes caused. Your patience is very much appreciated.</h6>
+            </div>
+        </div>
+    </div>
+    <script src="//cdnjs.cloudflare.com/ajax/libs/jquery/1.11.2/jquery.min.js"></script>
+    <script src="//cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/3.3.1/js/bootstrap.min.js"></script>
+    <script src="Content/resize.js"></script>
+    <script>
+        var divOrders = [0, 1, 2, 3, 4, 5];
+        var origins;
+        var meanings;
+        var sentences;
+        var numbers;
+        var xmlFile;
+
+        function clearUsedArray() {
+            origins = [];
+            meanings = [];
+            sentences = [];
+            numbers = [];
+        }
+
+        function loadXml(source) {
+            $.ajax({
+                type: "GET",
+                url: "Content/vocabulary-table/" + source + ".xml",
+                dataType: "xml",
+                success: function (xml) {
+                    xmlFile = xml;
+                    var i = 0;
+                    $(xml).find("vocab").each(function () {
+                        meanings.push($(this).find("meaning").text());
+                        origins.push($(this).find("origin").text() + " (" + $(this).find("speech").text() + ")");
+                        sentences.push($(this).find("sentence").text());
+                        numbers.push(i);
+                        i++;
+                    });
+                    renewAnswer(xmlFile);
+                },
+                error: function () {
+                    alert("The data : " + source + " can not be processed correctly. Please contant me!");
+                }
+            });
+        }
+
+        function sortArrayRandomly(array) {
+            array.sort(function () {
+                return .5 - Math.random();
+            });
+        }
+
+        function renewAnswer(xml) {
+            var pickedAnswers = [];
+            $(".answers-test").css("color", "#0c9");
+            sortArrayRandomly(numbers);
+            sortArrayRandomly(divOrders);
+            for (var i = 0; i < 6; i++) {
+                var origin = origins[numbers[i]];
+                var meaning = meanings[numbers[i]];
+                if (i == 0) {
+                    $("#question").text(origin);
+                    $("#question-sentence").text(sentences[numbers[i]]);
+                }
+                if (pickedAnswers.indexOf(origin) >= 0) {
+                    sortArrayRandomly(numbers);
+                    i--;
+                }
+                else {
+                    $("#answer p").eq(divOrders[i]).text(meaning).attr("data-answer", origin).attr("data-question", meaning);
+                    pickedAnswers.push(origin);
+                }
+            }
+        }
+
+        $("#vocab-table").change(function () {
+            switch ($(this).children("option:selected").attr("value")) {
+                case "none":
+                    break;
+                case "full":
+                    clearUsedArray();
+                    $(this).find("option").not(".bases").each(function () {
+                        loadXml($(this).attr("value"));
+                    });
+                    break;
+                default:
+                    clearUsedArray();
+                    loadXml($(this).children("option:selected").attr("value"));
+                    break;
+            }
+        });
+
+        $(".answers-test").click(function () {
+            var question = $(this).attr("data-question");
+            var answer = $(this).attr("data-answer");
+            if ($("#question").text() != answer) {
+                if ($(this).text() != answer)
+                    $(this).text(answer).css("color", "#800000");
+                else
+                    $(this).text(question).css("color", "#0c9");
+            }
+            else {
+                $(this).text("You are right!");
+                alert("Great! The answer is '" + question + "'.");
+                renewAnswer(xmlFile);
+            }
+        });
+    </script>
+</body>
+</html>
